@@ -1,0 +1,17 @@
+# Cirkularitet hos Renova
+
+![Flödesschema](2023_01_07_renova_process_overview.jpg)
+
+**Under försommaren 2022 inledde Sasha Faminoff en förstudie om effektiviserad kompostering på Renovas behandlingsanläggning för biologiskt avfall. IFK erbjöd sig genom Jerker Nilsson att bidra med det ingenjörsmässiga idéarbetet. Det hela utmynnade i en process för effektiv hantering av stora mängder komposterbart biologiskt avfall, med process- och logistikstyrning från det att råmaterialet kommer in till anläggningen tills den färdiga kompostjorden är redo för försäljning. Till den samhällsnytta som projektet har möjlighet att bidra med kunde på så sätt ekonomisk bärighet i projektet stärkas. Studien blev en framgång och kommer att fortsätta under 2023.**
+
+Kompostering av trädgårdsavfall har skett på Renova Marieholm under en längre tid, men med Sasha Faminoffs studie har vetenskaplig metodik och ingenjörsmässig processtyrning tillkommit. Sasha, som har en bakgrund som småskalig ekologisk grönsaksodlare och själv saknat bra närproducerad kompost till sin odling, har tagit initiativ till studien och med hjälp av experiment och litteratursökning kommit fram till en lämplig komposteringsprocess för att producera högkvalitativ kompostjord.
+
+För att skala upp konceptet till de materialmängder som kommer in till en återvinningsanläggning, säkerställa kvalité över tid och balansera kostnader från processen mot de inkomster som slutprodukten genererar tillkommer dock betydande arbetsinsatser i termer av process-, logistik- och ekonomistyrning. Jerker Nilsson, till vardags byggprojektledare på Volvo Lastvagnar i Göteborg, erbjöd sig å Ingenjörsarbete för Klimatets räkning att bidra med detta arbete på ideell basis.
+
+Genom att sammanställa materialflöden, mognadstid och arbetsinsats i komposteringsprocessens olika steg kunde Jerker ta fram ett förslag på hur anläggningen för kompostering ska se ut, men också hur mycket kompostjord som kommer att produceras per månad samt en ekonomisk balansräkning som visar att förädlingssteget är självbärande. 
+
+Nästa steg i processförädlingen som Ingenjörsarbete för Klimatet nu arbetar på är att komplettera med automatiserad processtyrning av temperatur i komposthögarna. Eftersom processen genererar värme utreds också möjligheten att nyttiggöra denna t ex genom inkoppling i fjärrvärmesystemet. Här har bl a HVAC-ingenjör Rasmus Olsson, till vardags på Concoord, varit inkopplad med sin expertis.
+
+Vi på Ingenjörsarbete för Klimatet är glada att ha kunnat hjälpa Renova öka den lokala cirkulariteten och ser fram emot att få fortsätta bidra på de sätt vi kan!
+
+(c) Ingenjörsarbete för Klimatet. För återpublicering kontakta ansvarig utgivare Anders Nord dr.anders.nord@gmail.com
