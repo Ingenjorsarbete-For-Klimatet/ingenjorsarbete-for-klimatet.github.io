@@ -9,8 +9,7 @@
     "build_path": "output",
     "home": "home",
     "menuitems": {
-        "home": "",
-        "archive": "archive"
+        "home": ""
     },
     "post_url": "{{post_url}}",
     "build_date": "{{update_date}}",
