@@ -1,0 +1,28 @@
+{% extends "base/base.html" %}
+{% block content %}
+{% set pageName = "home" %}
+{% if menuitems %}
+{% for title, link in menuitems.items() %}
+{% if title == "home" %}
+<div id="page_{{title}}" class="page" {% if title !=pageName %}style="display: none" {% endif %}>
+    <div id="content_{{title}}" class="content {% if title == pageName %}ajaxHook{% endif %}">
+        <div id="ajax_content_{{title.lower()}}" class="ajax_content">
+            <div class="entry-content-page hyphenate">
+                {{ pages[title+".md"].content }}
+            </div>
+        </div>
+    </div>
+</div>
+{% else %}
+<div id="page_{{title}}" class="page" {% if title !=pageName %}style="display: none" {% endif %}>
+    <div id="content_{{title}}" class="content {% if title == pageName %}ajaxHook{% endif %}">
+        <script>
+            $("#content_{{title}}").load("/{{ link }} #ajax_content_{{title}}");
+        </script>
+    </div>
+</div>
+{% endif %}
+{% endfor %}
+{% endif %}
+
+{% endblock content %}
