@@ -1,0 +1,31 @@
+{% extends "base/base.html" %}
+{% block title %}{{ sitename }} - Archive{% endblock %}
+{% block content %}
+{% set pageName = "archive" %}
+{% if menuitems %}
+{% for title, link in menuitems.items() %}
+{% if title == "archive" %}
+        <div id="page_{{title}}" class="page" {% if title !=pageName %}style="display: none" {% endif %}>
+            <div id="content_{{title}}" class="content {% if title == pageName %}ajaxHook{% endif %}">
+                <div id="ajax_content_{{title}}" class="ajax_content">
+                    <ol id="post-list" class="ordered-list" data-list-length="{{ articles|count }}">
+                        {% for article in articles %}
+                        {% include 'base/archive_kernel.html' %}
+                        {% endfor %}
+                    </ol>
+                </div>
+            </div>
+        </div>
+{% else %}
+        <div id="page_{{title}}" class="page" {% if title !=pageName %}style="display: none" {% endif %}>
+            <div id="content_{{title}}" class="content {% if title == pageName %}ajaxHook{% endif %}">
+                <script>
+                    $("#content_{{title}}").load("/{{ link }} #ajax_content_{{title}}");
+                </script>
+            </div>
+        </div>
+{% endif %}
+{% endfor %}
+{% endif %}
+
+{% endblock %}
