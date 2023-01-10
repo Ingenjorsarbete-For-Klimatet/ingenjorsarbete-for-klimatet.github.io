@@ -1,0 +1,17 @@
+                        <li class="list-style list-style-tiles" data-list="{{ article.date.strftime('%Y-%m-%d') }}" data-month="{{ article.date.strftime('%m') }}">
+                            <a id="{{ article.slug }}" href="/{{ article.path }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">
+                                <article class="hentry">
+                                    <header>
+                                        <h5 class="entry-date entry-title">
+                                            {{ article.date.strftime('%Y-%m-%d') }} /
+                                        </h5>
+                                        <h5 class="entry-title">
+                                            {{ article.category }} /
+                                        </h5>
+                                        <h5 class="entry-title">
+                                            {{ article.title }}
+                                        </h5>
+                                    </header>
+                                </article>
+                            </a>
+                        </li>
