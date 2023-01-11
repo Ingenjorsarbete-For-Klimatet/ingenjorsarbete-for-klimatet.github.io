@@ -1,13 +1,13 @@
 {
     "author": "Mladen Gibanica",
-    "sitename": "ingenjorsarbete-for-klimatet.github.io/ifk-articles",
+    "sitename": "ifk-articles",
     "siteurl": "https:///ingenjorsarbete-for-klimatet.github.io/ifk-articles",
     "timezone": "Europe/Stockholm",
     "default_lang": "sv",
     "theme_path": "theme",
     "src_path": "content",
     "build_path": "output",
-    "home": "home",
+    "home": "ifk",
     "menuitems": {
         "ifk": "",
         "arkiv": "archive"
