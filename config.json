@@ -9,7 +9,7 @@
     "build_path": "output",
     "home": "ifk",
     "menuitems": {
-        "ifk": "ifk-articles",
+        "ifk": "",
         "arkiv": "archive"
     },
     "post_url": "{{post_url}}",
