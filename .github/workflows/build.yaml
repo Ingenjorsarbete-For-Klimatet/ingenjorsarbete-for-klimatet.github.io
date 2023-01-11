@@ -29,13 +29,8 @@ jobs:
         uses: actions/checkout@v3
       - name: Setup Pages
         uses: actions/configure-pages@v2
-      - name: Checkout mysgen
-        uses: actions/checkout@v3
-        with:
-          repository: mgcth/mysgen
-          path: mysgen
       - name: Install mysgen
-        run: cd mysgen && pip install . && cd ..
+        run: pip install https://github.com/mgcth/mysgen/archive/master.zip
       - name: Build site
         run: python mysgen/src/mysgen/mysgen.py && mv output _site
       - name: Upload artifact
