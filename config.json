@@ -7,7 +7,7 @@
     "theme_path": "theme",
     "src_path": "content",
     "build_path": "output",
-    "home": "home",
+    "home": "ifk",
     "menuitems": {
         "ifk": "",
         "arkiv": "archive"
