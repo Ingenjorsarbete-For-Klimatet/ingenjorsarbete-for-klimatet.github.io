@@ -35,7 +35,7 @@ jobs:
           repository: mgcth/mysgen
           path: mysgen
       - name: Install mysgen
-        run: pip install mysgen
+        run: cd mysgen && pip install . && cd ..
       - name: Build site
         run: python mysgen/src/mysgen/mysgen.py && mv output _site
       - name: Upload artifact
