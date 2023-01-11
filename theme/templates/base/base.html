@@ -36,7 +36,7 @@
             <li id="nav_{{ title }}" title="{{ title }}">
                 <a class="nav_{{ title }} nav_link {% if ( title == " home" and page_name=="index" ) or (
                     title=="archives" and ( page_name=="archives" or page_name=="categories" or page_name=="tags" ) )
-                    %}activeMenu{% endif %}" title="{{ title }}" {% if ( title=="home" ) %} href="{{sitename}}/{{link}}" {% else %}
+                    %}activeMenu{% endif %}" title="{{ title }}" {% if ( title=="home" ) %} href="/{{sitename}}" {% else %}
                     href="/{{sitename}}/{{link}}/" {% endif %}>
                     {{title}}
                 </a>
