@@ -1,7 +1,7 @@
 {
     "author": "Mladen Gibanica",
-    "sitename": "ingenjorsarbeteforklimatet.se",
-    "siteurl": "https://ingenjorsarbeteforklimatet.se",
+    "sitename": "ingenjorsarbete-for-klimatet.github.io/ifk-articles",
+    "siteurl": "https:///ingenjorsarbete-for-klimatet.github.io/ifk-articles",
     "timezone": "Europe/Stockholm",
     "default_lang": "sv",
     "theme_path": "theme",
