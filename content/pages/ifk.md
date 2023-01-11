@@ -1,4 +1,4 @@
-title: Home
+title: IFK
 date: 2023-01-10
 author: Mladen Gibanica
 type: index
