@@ -1,5 +1,5 @@
                         <li class="list-style list-style-tiles" data-list="{{ article.date.strftime('%Y-%m-%d') }}" data-month="{{ article.date.strftime('%m') }}">
-                            <a id="{{ article.slug }}" href="/{{ article.path }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">
+                            <a id="{{ article.slug }}" href="{{ sitename }}/{{ article.path }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">
                                 <article class="hentry">
                                     <header>
                                         <h5 class="entry-date entry-title">
