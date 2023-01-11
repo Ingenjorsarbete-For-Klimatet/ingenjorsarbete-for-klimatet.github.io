@@ -32,7 +32,7 @@ jobs:
       - name: Install mysgen
         run: pip install https://github.com/mgcth/mysgen/archive/master.zip
       - name: Build site
-        run: python mysgen/src/mysgen/mysgen.py && mv output _site
+        run: python -m mysgen.mysgen && mv output _site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
