@@ -1,0 +1,18 @@
+                    <article class="article">
+                        <header>
+                            <h1 class="entry-title">{{ meta.title }}</h1>
+                            <span class="published" title="{{ meta.date.isoformat() }}">
+                                / {{ meta.date.strftime("%Y-%m-%d") }} /
+                            </span>
+                            <span class="entry-title">
+                                {{ meta.category }}
+                            </span>
+
+                        </header>
+                        <div class="article-content hyphenate">
+                            <div class="article_body">
+                                {{ article_content }}
+                            </div>
+                        </div>
+                        <footer class="post-info"></footer>
+                    </article>
