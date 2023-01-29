@@ -1,6 +1,7 @@
 # Cirkularitet hos Renova
 
 ![Flödesschema](2023_01_07_renova_process_overview.jpg)
+*Flödesschema komposteringsprocess.*
 
 **Under försommaren 2022 inledde Sasha Faminoff en förstudie om effektiviserad kompostering på Renovas behandlingsanläggning för biologiskt avfall. IFK erbjöd sig genom Jerker Nilsson att bidra med det ingenjörsmässiga idéarbetet. Det hela utmynnade i en process för effektiv hantering av stora mängder komposterbart biologiskt avfall, med process- och logistikstyrning från det att råmaterialet kommer in till anläggningen tills den färdiga kompostjorden är redo för försäljning. Utöver den samhällsnytta som projektet har möjlighet att bidra med kunde på så sätt även teknisk möjlighet och ekonomisk bärighet stärkas. Studien blev en framgång och kommer att fortsätta under 2023.**
 
