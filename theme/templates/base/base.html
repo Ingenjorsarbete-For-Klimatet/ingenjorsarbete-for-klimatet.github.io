@@ -13,7 +13,7 @@
 		<meta name=viewport id="viewport" content="width=device-width, initial-scale=1">
 		<!-- Define viewport -->
 		<!-- Favicon -->
-		<link rel="shortcut icon" href="/css/favicon.png">
+		<link rel="shortcut icon" href="/{{sitename}}/css/favicon.png">
 		<!-- End Favicon -->
 		<!-- Font loading -->
 		<style>
@@ -21,7 +21,7 @@
 		</style>
 		<!-- End font loading -->
 		<!-- Load CSS -->
-		<link rel="stylesheet" type="text/css" href="/css/style.css" />
+		<link rel="stylesheet" type="text/css" href="/{{sitename}}/css/style.css" />
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/styles/default.min.css">
 		<!-- End Load CSS -->
 		{% endblock head %}
@@ -32,8 +32,7 @@
 				{% if menuitems %}
 				{% for title, link in menuitems.items() %}
 				<li id="nav_{{ title }}" title="{{ title }}">
-					<a class="nav_{{ title }} nav_link" title="{{ title }}" {% if ( title==home ) %} href="/{{sitename}}" {% else %}
-						href="/{{sitename}}/{{link}}/" {% endif %}>
+					<a class="nav_{{ title }} nav_link" title="{{ title }}" {% if ( title==home ) %} href="/{{sitename}}" {% else %} href="/{{sitename}}/{{link}}/" {% endif %}>
 						{{title}}
 					</a>
 				</li>
