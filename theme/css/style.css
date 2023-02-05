@@ -96,6 +96,7 @@ a {
 }
 
 #footer li {
+    padding: 0 10px;
     float: left;
     height: 50px;
     position: relative;
@@ -115,6 +116,6 @@ a {
 }
 
 #main .page p {
-    line-height: 1.5;
+    line-height: 1.75;
 }
 /* End Content */

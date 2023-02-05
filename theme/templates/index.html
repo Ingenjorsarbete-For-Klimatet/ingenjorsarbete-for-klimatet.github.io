@@ -6,6 +6,12 @@
         <div id="ajax_content_{{pageName.lower()}}" class="ajax_content">
             <div class="entry-content-page hyphenate">
                 {{ pages[pageName+".md"].content }}
+
+                <ol id="post-list" class="ordered-list" data-list-length="{{ articles|count }}">
+                    {% for article in articles %}
+                    {% include 'base/archive_kernel.html' %}
+                    {% endfor %}
+                </ol>
             </div>
         </div>
     </div>
