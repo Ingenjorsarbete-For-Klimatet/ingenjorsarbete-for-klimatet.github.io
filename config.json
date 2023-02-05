@@ -9,7 +9,11 @@
     "build_path": "output",
     "home": "ifk",
     "menuitems": {
-        "ifk": ""
+        "ifk": "",
+        "projekt": "projekt",
+        "arkiv": "arkiv",
+        "kontakt": "kontakt",
+        "om": "om"
     },
     "post_url": "{{post_url}}",
     "build_date": "{{update_date}}",
