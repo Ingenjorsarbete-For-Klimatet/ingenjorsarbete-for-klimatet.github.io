@@ -27,39 +27,39 @@
 		{% endblock head %}
 	</head>
 	<body>
-		<div id="wrapper" class="fade-in">
-			<nav id="nav" class="nav">
-				<ul>
-					{% if menuitems %}
-					{% for title, link in menuitems.items() %}
-					<li id="nav_{{ title }}" title="{{ title }}">
-						<a class="nav_{{ title }} nav_link" title="{{ title }}" {% if ( title==home ) %} href="/{{sitename}}" {% else %}
-							href="/{{sitename}}/{{link}}/" {% endif %}>
-							{{title}}
-						</a>
-					</li>
-					{% endfor %}
-					{% endif %}
-				</ul>
-				<ul class="icons">
-					<li><a href="https://www.facebook.com/ingenjorsarbeteforklimatet/" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-					<li><a href="https://www.instagram.com/ingenjorsarbeteforklimatet/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-					<li><a href="https://github.com/Ingenjorsarbete-For-Klimatet/" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-				</ul>
-			</nav>
+		<nav id="nav" class="nav">
+			<ul>
+				{% if menuitems %}
+				{% for title, link in menuitems.items() %}
+				<li id="nav_{{ title }}" title="{{ title }}">
+					<a class="nav_{{ title }} nav_link" title="{{ title }}" {% if ( title==home ) %} href="/{{sitename}}" {% else %}
+						href="/{{sitename}}/{{link}}/" {% endif %}>
+						{{title}}
+					</a>
+				</li>
+				{% endfor %}
+				{% endif %}
+			</ul>
+			<ul class="icons">
+				<li><a href="https://www.facebook.com/ingenjorsarbeteforklimatet/" target="_blank"><span data-feather="facebook">Facebook</span></a></li>
+				<li><a href="https://www.instagram.com/ingenjorsarbeteforklimatet/" target="_blank"><span data-feather="instagram">Instagram</span></a></li>
+				<li><a href="https://github.com/Ingenjorsarbete-For-Klimatet/" target="_blank"><span data-feather="github">GitHub</span></a></li>
+			</ul>
+		</nav>
 
-			<main id="main" class="main">
-				{% block content %}
-				{% endblock %}
-			</main>
+		<main id="main" class="main">
+			{% block content %}
+			{% endblock %}
+		</main>
 
-			<footer id="footer">
-				</section id="copyright">
-					<ul>
-						<p>&copy; IFK</p>
-					</ul>
-				</section>
-			</footer>
-		</div>
+		<footer id="footer">
+			<ul>
+				<p>&copy; IFK</p>
+			</ul>
+		</footer>
 	</body>
+	<script src="https://unpkg.com/feather-icons"></script>
+	<script>
+		feather.replace()
+	</script>
 </html>

@@ -4,3 +4,106 @@ Author: Mladen Gibanica
 Site: ingenjorsarbeteforklimatet.se
 Version: 0.1
 */
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Menu */
+#nav {
+    font-family: Lato, "Gill Sans", "Helvetica-Neue", Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-size: 1em;
+    margin: 40px;
+    padding: 0;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    list-style: none;
+    display: inline-block;
+}
+
+.nav li {
+    float: left;
+    height: 50px;
+    position: relative;
+}
+
+.nav a,
+.nav a:visited {
+    color: #000;
+    flex: 0 0 auto;
+    display: flex;
+    align-items: center;
+    height: 50px;
+    padding: 0 20px;
+    background: rgba(240,240,240,0.75);
+}
+
+.nav a:hover {
+    color: #f0f0f0;
+    background: #000;
+}
+
+.nav a.activeMenu {
+    color: #f0f0f0;
+    background: #000;
+}
+
+.nav #menu-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    padding: 0 20px 0 20px;
+    height: 50px;
+    margin: 0;
+    background: #000;
+    color: #f0f0f0;
+    width: 41px;
+}
+/* End Menu */
+
+a {
+    text-decoration: none;
+}
+
+/* Footer */
+#footer {
+    font-family: Lato, "Gill Sans", "Helvetica-Neue", Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-size: 1em;
+    margin: 40px;
+    padding: 0;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#footer ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    list-style: none;
+    display: inline-block;
+}
+
+#footer li {
+    float: left;
+    height: 50px;
+    position: relative;
+}
+/* End Footer */
+
+/* Footer */
+#main {
+    margin: 0 40px;
+}
+/* End Footer */
