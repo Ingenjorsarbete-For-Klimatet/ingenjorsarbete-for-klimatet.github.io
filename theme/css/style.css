@@ -12,7 +12,7 @@ html, body {
 
 /* Menu */
 #nav {
-    font-family: Lato, "Gill Sans", "Helvetica-Neue", Helvetica, sans-serif;
+    font-family: "Rubik", "Helvetica-Neue", Helvetica, sans-serif;
     text-transform: uppercase;
     font-size: 1em;
     margin: 40px;
@@ -102,8 +102,19 @@ a {
 }
 /* End Footer */
 
-/* Footer */
+/* Content */
 #main {
     margin: 0 40px;
+    font-size: 1.2em;
+    font-family: "Rubik", "Helvetica-Neue", Helvetica, sans-serif;
 }
-/* End Footer */
+
+#main .page {
+    margin: 0 auto;
+    max-width: 960px;
+}
+
+#main .page p {
+    line-height: 1.5;
+}
+/* End Content */
