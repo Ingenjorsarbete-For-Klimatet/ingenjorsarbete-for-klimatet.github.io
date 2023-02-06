@@ -119,3 +119,13 @@ a {
     line-height: 1.75;
 }
 /* End Content */
+
+ol {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+
+article header {
+    display: flex;
+}
