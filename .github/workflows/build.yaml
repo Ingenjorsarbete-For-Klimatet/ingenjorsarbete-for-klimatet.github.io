@@ -36,6 +36,10 @@ jobs:
         run: pip install https://github.com/mgcth/mysgen/archive/master.zip
       - name: Build site
         run: python -m mysgen.mysgen && cp -r theme/css/ output/css/ && mv output _site
+        with:
+          S3_KEY: ${{ secrets.S3_KEY }}
+          S3_SECRET: ${{ secrets.S3_SECRET }}
+          S3_URL: ${{ secrets.S3_URL }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
