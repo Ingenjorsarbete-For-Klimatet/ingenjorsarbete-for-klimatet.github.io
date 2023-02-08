@@ -134,3 +134,22 @@ ol {
 article .entry-title {
     display: inline;
 }
+
+.main .hentry {
+    padding: 10px 0;
+}
+
+a, a:visited {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    transition: all 0.25s;
+    color: rgba(0,0,0,0.6);
+    text-decoration: none;
+}
+
+p a, p a:visited {
+    text-decoration: underline;
+}
