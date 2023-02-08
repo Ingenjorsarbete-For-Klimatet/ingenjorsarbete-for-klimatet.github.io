@@ -1,6 +1,6 @@
 title: Kontakt
 date: 2023-02-05
-author: Mladen Gibanica
+author: Anders Nord
 modified: Anders Nord
 type: page
 status: published
