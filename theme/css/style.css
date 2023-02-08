@@ -92,7 +92,7 @@ a {
 }
 
 #footer li a, #footer li p {
-    padding: 0 20px;
+    padding: 20px;
     background: rgba(240,240,240,0.75);
 }
 
@@ -132,4 +132,5 @@ ol {
 
 article header {
     display: flex;
+    align-items: flex-end;
 }
