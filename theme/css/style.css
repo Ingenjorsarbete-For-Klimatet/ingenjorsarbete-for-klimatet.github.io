@@ -15,11 +15,12 @@ html, body {
     font-family: "Rubik", "Helvetica-Neue", Helvetica, sans-serif;
     text-transform: uppercase;
     font-size: 1em;
-    margin: 40px;
-    padding: 0;
+    margin: 40px auto;
+    padding: 0 40px;
     height: 50px;
     display: flex;
     justify-content: space-between;
+    max-width: 960px;
 }
 
 .nav ul {
@@ -80,11 +81,12 @@ a {
     font-family: Lato, "Gill Sans", "Helvetica-Neue", Helvetica, sans-serif;
     text-transform: uppercase;
     font-size: 1em;
-    margin: 40px;
-    padding: 0;
+    margin: 40px auto;
+    padding: 0 40px;
     height: 50px;
     display: flex;
     justify-content: space-between;
+    max-width: 960px;
 }
 
 #footer ul {
