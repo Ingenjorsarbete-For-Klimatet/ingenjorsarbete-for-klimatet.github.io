@@ -85,11 +85,14 @@ a {
 }
 
 #footer li {
-    padding: 0 10px;
     display: flex;
     align-items: center;
     height: 50px;
     position: relative;
+}
+
+#footer li a, #footer li p {
+    padding: 0 20px;
 }
 /* End Footer */
 
