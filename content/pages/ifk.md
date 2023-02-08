@@ -14,5 +14,3 @@ gränser. Föreningen ska verka för sitt ändamål genom aktiviteter fokuserade
 konkreta åtgärder (ingen politisk opinionsbildning annat än för konkreta
 förslag). Alla åtgärdsförslag skall vara baserade på ingenjörsmässig och
 vetenskaplig metod.
-
-## Tidigare event
