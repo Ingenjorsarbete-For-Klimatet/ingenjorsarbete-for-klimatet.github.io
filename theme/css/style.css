@@ -93,17 +93,10 @@ a {
 
 #footer li a, #footer li p {
     padding: 20px;
-    background: rgba(240,240,240,0.75);
 }
 
-#footer a,
-#footer a:visited {
-    color: #000;
-}
-
-#footer a:hover {
-    color: #f0f0f0;
-    background: #000;
+#footer li:first-child {
+    padding-left: 0;
 }
 /* End Footer */
 
