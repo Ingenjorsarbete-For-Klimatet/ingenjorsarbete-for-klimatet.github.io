@@ -125,12 +125,12 @@ a {
 /* End Content */
 
 ol {
+    padding: 0;
     list-style: none;
     display: flex;
     flex-direction: column;
 }
 
-article header {
-    display: flex;
-    align-items: flex-end;
+article .entry-title {
+    display: inline;
 }
