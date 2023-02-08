@@ -95,7 +95,7 @@ a {
     padding: 20px;
 }
 
-#footer li:first-child {
+#footer li p:first-child {
     padding-left: 0;
 }
 /* End Footer */
