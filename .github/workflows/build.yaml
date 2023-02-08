@@ -4,7 +4,7 @@ name: Deploy GitHub Pages
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["main", "feature/site"]
+    branches: ["main", "update_base_tempate"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -35,7 +35,11 @@ jobs:
       - name: Install mysgen
         run: pip install https://github.com/mgcth/mysgen/archive/master.zip
       - name: Build site
-        run: python -m mysgen.mysgen && mv output _site
+        env:
+          S3_KEY: ${{ secrets.S3_KEY }}
+          S3_SECRET: ${{ secrets.S3_SECRET }}
+          S3_URL: ${{ secrets.S3_URL }}
+        run: python -m mysgen.mysgen && cp -r theme/css/ output/css/ && mv output _site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 

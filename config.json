@@ -9,10 +9,14 @@
     "build_path": "output",
     "home": "ifk",
     "menuitems": {
-        "ifk": ""
+        "ifk": "",
+        "projekt": "projekt",
+        "arkiv": "arkiv",
+        "kontakt": "kontakt",
+        "om": "om"
     },
     "post_url": "{{post_url}}",
-    "build_date": "{{update_date}}",
+    "build_date_template": "{{update_date}}",
     "thumbnail_size": [
         300,
         300
@@ -22,5 +26,5 @@
         "fenced_code",
         "mdx_math"
     ],
-    "s3-bucket": ""
+    "s3-bucket": "ifk"
 }
