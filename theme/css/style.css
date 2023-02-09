@@ -5,6 +5,16 @@ Site: ingenjorsarbeteforklimatet.se
 Version: 0.1
 */
 
+@media only screen and (width <= 600px) {
+    #nav, #footer {
+        padding: 0 20px;
+    }
+
+    #main {
+        margin: 0 20px;
+    }
+}
+
 html, body {
     margin: 0;
     padding: 0;
@@ -145,14 +155,4 @@ a:hover {
 
 p a, p a:visited {
     text-decoration: underline;
-}
-
-@media only screen and (max-width: 600px) {
-    #nav, #footer {
-        padding: 0 20px;
-    }
-
-    #main {
-        margin: 0 20px;
-    }
 }
