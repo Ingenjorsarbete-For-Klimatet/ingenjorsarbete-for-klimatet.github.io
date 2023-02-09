@@ -23,6 +23,6 @@ jobs:
         run: pip install https://github.com/mgcth/mysgen/archive/master.zip
       - name: Modify config to not use s3
         run: |
-          python -c "import json; with open("config.json") as f: d = json.loads(f.read()); d["s3-bucket"] = ""; with open("config.json", "w") as f: f.write(json.dumps(d))"
+          python -c "import json; with open('config.json') as f: d = json.loads(f.read()); d['s3-bucket'] = ''; with open('config.json', 'w') as f: f.write(json.dumps(d))"
       - name: Build site
         run: python -m mysgen.mysgen && cp -r theme/css/ output/css/ && mv output _site
