@@ -1,0 +1,32 @@
+# Sample workflow for building and deploying a Jekyll site to GitHub Pages
+name: Test build
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  # Build job
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install mysgen
+        run: pip install https://github.com/mgcth/mysgen/archive/master.zip
+      - name: Modify config to not use s3
+        run: |
+          python -c
+          "import json;
+          with open("config.json") as f: d = json.loads(f.read());
+          d["s3-bucket"] = "";
+          with open("config.json", "w") as f: f.write(json.dumps(d))"
+      - name: Build site
+        run: python -m mysgen.mysgen && cp -r theme/css/ output/css/ && mv output _site
