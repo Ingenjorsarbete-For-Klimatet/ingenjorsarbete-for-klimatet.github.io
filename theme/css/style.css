@@ -12,7 +12,7 @@ html, body {
 
 /* Menu */
 #nav {
-    font-family: "Rubik", "Helvetica-Neue", Helvetica, sans-serif;
+    font-family: "Rubik", "Gill Sans", "Helvetica-Neue", Helvetica, sans-serif;
     text-transform: uppercase;
     font-size: 1em;
     margin: 40px auto;
@@ -65,7 +65,7 @@ a {
 
 /* Footer */
 #footer {
-    font-family: Lato, "Gill Sans", "Helvetica-Neue", Helvetica, sans-serif;
+    font-family: "Rubik", "Gill Sans", "Helvetica-Neue", Helvetica, sans-serif;
     text-transform: uppercase;
     font-size: 1em;
     margin: 40px auto;
@@ -93,10 +93,6 @@ a {
 
 #footer li a, #footer li p {
     padding: 20px;
-}
-
-#footer li p:first-child {
-    padding-left: 0;
 }
 /* End Footer */
 
@@ -145,4 +141,14 @@ a:hover {
 
 p a, p a:visited {
     text-decoration: underline;
+}
+
+@media only screen and (width <= 600px) {
+    #nav, #footer {
+        padding: 0 20px;
+    }
+
+    #main {
+        margin: 0 20px;
+    }
 }
