@@ -2,6 +2,7 @@
 {% block content %}
 {% if menuitems %}
 {% for title, link in menuitems.items() %}
+{% set pageName = title %}
         <div id="page_{{title}}" class="page" {% if title !=page_name %}style="display: none" {% endif %}>
             <div id="content_{{title}}" class="content {% if title == page_name %}ajaxHook{% endif %}">
                 <div id="ajax_content_{{ pages[title + ".md"].meta.title.lower() }}" class="ajax_content">
