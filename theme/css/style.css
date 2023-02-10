@@ -124,6 +124,10 @@ article .entry-title {
     display: inline;
 }
 
+article h1 {
+    font-size: inherit;
+}
+
 .main .hentry {
     padding: 10px 0;
 }
