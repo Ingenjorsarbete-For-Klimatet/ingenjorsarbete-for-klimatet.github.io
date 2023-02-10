@@ -23,7 +23,7 @@
 		<!-- End font loading -->
 		<!-- Load CSS -->
 		<link rel="stylesheet" type="text/css" href="/{{sitename}}/css/style.css" />
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/styles/default.min.css">
+		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/default.min.css">
 		<!-- End Load CSS -->
 		{% endblock head %}
 	</head>
@@ -73,8 +73,10 @@
 			</ul>
 		</footer>
 	</body>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
 	<script src="https://unpkg.com/feather-icons"></script>
 	<script>
-		feather.replace()
+		feather.replace();
+		hljs.highlightAll();
 	</script>
 </html>
