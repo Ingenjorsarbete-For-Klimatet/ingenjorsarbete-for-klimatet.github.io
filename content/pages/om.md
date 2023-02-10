@@ -1,7 +1,6 @@
 title: Om
 date: 2023-02-05
 author: Anders Nord
-co-author: Anders Nord
 type: page
 status: published
 
