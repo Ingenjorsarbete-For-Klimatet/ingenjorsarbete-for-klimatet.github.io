@@ -5,37 +5,21 @@
 {% set pageName = title %}
         <div id="page_{{title}}" class="page" {% if title !=page_name %}style="display: none" {% endif %}>
             <div id="content_{{title}}" class="content {% if title == page_name %}ajaxHook{% endif %}">
-                {% if not (title + ".md" in pages.keys()) or title == "archive" %}
-                <script>
-                    $("#content_{{title}}").load("/{{ link }} #ajax_content_{{title}}");
-                </script>
-                {% else %}
                 <div id="ajax_content_{{ pages[title + ".md"].meta.title.lower() }}" class="ajax_content">
-                    {% if title == "projects" %}
-                    <ol id="post-list" class="ordered-list" data-list-length="{{ articles|count }}">
-                        {% for article in articles %}
-                        {% if article.category == "Projects" %}
-                        {% include 'base/archive_kernel.html' %}
-                        {% endif %}
-                        {% endfor %}
-                    </ol>
-                    {% elif title == "photos" %}
-                    <ol id="post-list" class="photos ordered-list" data-list-length="{{ articles|count }}">
-                        {% for article in articles %}
-                        {% if article.category == "Photos" and article.image %}
-                        {% include 'base/archive_kernel.html' %}
-                        {% endif %}
-                        {% endfor %}
-                    </ol>
-                    {% else %}
-                    <h1 style="display: none">{{ pages[title+".md"].meta.title.lower() }}</h1>
                     <div class="entry-content-page hyphenate">
                         {{ pages[title+".md"].content }}
+
+                        {% if title == "projekt" %}
+                        <ol id="post-list" class="ordered-list" data-list-length="{{ articles|count }}">
+                            {% for article in articles %}
+                            {% if article.category == "Projekt" %}
+                            {% include 'base/archive_kernel.html' %}
+                            {% endif %}
+                            {% endfor %}
+                        </ol>
+                        {% endif %}
                     </div>
-                    {% endif %}
-                    <!-- This is ugly but I haven't found any better way of doing things! Can use JavaScript but users witout it will lose content. -->
                 </div>
-                {% endif %}
             </div>
         </div>
 {% endfor %}
