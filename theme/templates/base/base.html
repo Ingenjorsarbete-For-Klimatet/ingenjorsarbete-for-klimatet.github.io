@@ -33,8 +33,7 @@
 				{% if menuitems %}
 				{% for title, link in menuitems.items() %}
 				<li id="nav_{{ title }}" title="{{ title }}">
-					<a class="nav_{{ title }} nav_link {% if ( title == "home" and page_name=="index" ) or (
-						title=="archives" and ( page_name=="archives" ) ) %}activeMenu{% endif %}" title="{{ title }}" {% if ( title==home ) %} href="/{{sitename}}" {% else %} href="/{{sitename}}/{{link}}/" {% endif %}>
+					<a class="nav_{{ title }} nav_link {% if ( title == "ifk" and page_name == "ifk" ) or ( title == "arkiv" and page_name == "arkiv" ) or ( title == "projekt" and page_name == "projekt") or ( title == "kontakt" and page_name == "kontakt" ) or ( title == "om" and page_name == "om" ) %}activeMenu{% endif %}" title="{{ title }}" {% if ( title==home ) %} href="/{{sitename}}" {% else %} href="/{{sitename}}/{{link}}/" {% endif %}>
 						{{title}}
 					</a>
 				</li>
@@ -42,6 +41,20 @@
 				{% endif %}
 			</ul>
 		</nav>
+
+
+		{% for title, link in menuitems.items() %}
+		<li id="nav_{{ title }}" title="{{ title }}">
+			<a class="nav_{{ title }} nav_link {% if ( title == " home" and page_name=="index" ) or (
+				title=="archives" and ( page_name=="archives" or page_name=="categories" or page_name=="tags" ) )
+				%}activeMenu{% endif %}" title="{{ title }}" {% if ( title=="home" ) %} href="/{{link}}" {% else %}
+				href="/{{link}}/" {% endif %}>
+				{{title}}
+			</a>
+		</li>
+		{% endfor %}
+
+
 
 		<main id="main" class="main">
 			{% block content %}
