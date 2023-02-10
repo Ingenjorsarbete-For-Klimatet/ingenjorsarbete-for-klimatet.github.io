@@ -124,8 +124,8 @@ article .entry-title {
     display: inline;
 }
 
-article h1 {
-    font-size: inherit;
+article h1, h1 {
+    font-size: 2em;
 }
 
 .main .hentry {
