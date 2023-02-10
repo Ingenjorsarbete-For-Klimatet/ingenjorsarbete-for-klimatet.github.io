@@ -11,4 +11,5 @@ erfarenhet inom ingenjörskonst och en passion för klimatarbete.
 Eller kanske du vill bli en av oss och bidra och hjälpa till i klimatarbetet,
 kontakta oss då på sociala medier eller skicka ett mail till [info@ingenjorsarbeteforklimatet.se](mailto:info@ingenjorsarbeteforklimatet.se)
 
-Ordförande i föreningen, <a href="https://se.linkedin.com/in/anders-nord-6280195" target="_blank">Anders Nord</a>.
+Ordförande i föreningen, <a href="https://se.linkedin.com/in/anders-nord-6280195"
+target="_blank">Anders Nord</a>.
