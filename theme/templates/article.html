@@ -12,7 +12,9 @@
         <div id="page_{{pageName}}" class="page" {% if pageName !=pageName %}style="display: none" {% endif %}>
             <div id="content_{{pageName}}" class="content {% if pageName == pageName %}ajaxHook{% endif %}">
                 <div id="ajax_content_{{pageName}}" class="ajax_content">
-                    {% include 'base/article_kernel.html' %}
+                    <div class="entry-content-page hyphenate">
+                        {% include 'base/article_kernel.html' %}
+                    </div>
                 </div>
             </div>
         </div>
