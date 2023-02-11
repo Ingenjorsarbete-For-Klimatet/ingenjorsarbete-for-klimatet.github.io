@@ -92,7 +92,7 @@ a {
 }
 
 #footer li a, #footer li p {
-    padding: 20px;
+    padding: 0 20px;
 }
 /* End Footer */
 
@@ -154,5 +154,14 @@ p a, p a:visited {
 
     #main {
         margin: 0 20px;
+    }
+
+    .nav a,
+    .nav a:visited {
+        padding: 0 15px;
+    }
+
+    #footer li a, #footer li p {
+        padding: 0 15px;
     }
 }
