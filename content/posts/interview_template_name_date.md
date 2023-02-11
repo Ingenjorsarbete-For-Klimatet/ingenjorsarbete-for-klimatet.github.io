@@ -1,11 +1,9 @@
 title: Intervju med medlem: FÖRNAMN EFTERNAMN
 date: YYYY-MM-DD
-modified: YYYY-MM-DD
-author:
-category: Interviews
-tags: interview, climate, ifk
-data:
-status: published
+author: 
+category: Intervjuer
+tags: intervju, klimat, ifk, medlemmar
+status: unpublished
 
 ![Bild av intervjuobjekt]({{post_url}}/data/INTERVJUBILD)
 *FÖRNAMN EFTERNAMN i SAMMANHANG vid DATUM.*
