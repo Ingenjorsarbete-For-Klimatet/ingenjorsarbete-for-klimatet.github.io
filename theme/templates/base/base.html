@@ -23,7 +23,8 @@
 		<!-- End font loading -->
 		<!-- Load CSS -->
 		<link rel="stylesheet" type="text/css" href="/{{sitename}}/css/style.css" />
-		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/default.min.css">
+		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/default.min.css" />
+		<link rel="stylesheet" href="https://unpkg.com/highlightjs-copy/dist/highlightjs-copy.min.css" />
 		<!-- End Load CSS -->
 		{% endblock head %}
 	</head>
@@ -60,9 +61,15 @@
 		</footer>
 	</body>
 	<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+	<script src="https://unpkg.com/highlightjs-copy/dist/highlightjs-copy.min.js"></script>
 	<script src="https://unpkg.com/feather-icons"></script>
 	<script>
 		feather.replace();
 		hljs.highlightAll();
+		hljs.addPlugin(
+			new CopyButtonPlugin({
+				callback: (text, el) => console.log("Copied to clipboard", text),
+			})
+		);
 	</script>
 </html>
