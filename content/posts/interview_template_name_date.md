@@ -1,5 +1,5 @@
 title: Intervju med medlem: FÖRNAMN EFTERNAMN
-date: YYYY-MM-DD
+date: 2020-01-01
 author:
 category: Intervjuer
 tags: intervju, klimat, ifk, medlemmar
