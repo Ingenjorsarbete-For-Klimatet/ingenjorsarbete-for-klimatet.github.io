@@ -1,6 +1,6 @@
 title: Intervju med medlem: FÖRNAMN EFTERNAMN
 date: YYYY-MM-DD
-author: 
+author:
 category: Intervjuer
 tags: intervju, klimat, ifk, medlemmar
 status: unpublished
