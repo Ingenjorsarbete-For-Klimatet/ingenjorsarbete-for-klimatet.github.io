@@ -6,9 +6,10 @@ tags: intervju, klimat, ifk, medlemmar
 status: unpublished
 data:
 
-<div class="post-image-center">
-![Bild av intervjuobjekt]({{post_url}}/data/INTERVJUBILD)
-*FÖRNAMN EFTERNAMN i SAMMANHANG vid DATUM.*
+
+<div class="post-image-left">
+    <img alt="Bild av intervjuobjekt" src="{{post_url}}/data/INTERVJUBILD" />
+    <em>FÖRNAMN EFTERNAMN i SAMMANHANG vid DATUM.</em>
 </div>
 
 **FÖRNAMN EFTERNAMN är medlem i Ingenjörsarbete För Klimatet sedan DATUM.**

@@ -6,10 +6,11 @@ tags: intervju, klimat, ifk, medlemmar
 status: published
 data:
 
-<div class="post-image-center">
-![Anders Nord]({{post_url}}/data/anders_nord.jpeg)
+<div class="post-image-left">
+    <img alt="Anders Nord" src="{{post_url}}/data/anders_nord.jpeg" />
+    <em>Anders Nord i arbete med `ifk-smhi` hemma i sin fåtölj 2023-02-11.</em>
 </div>
-*Anders Nord i arbete med `ifk-smhi` hemma i sin fåtölj 2023-02-11.*
+
 
 **Anders Nord är medlem i Ingenjörsarbete För Klimatet sedan starten 2020.**
 

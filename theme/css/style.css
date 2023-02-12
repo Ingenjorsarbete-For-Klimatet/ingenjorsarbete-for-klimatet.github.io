@@ -147,13 +147,13 @@ p a, p a:visited {
     text-decoration: underline;
 }
 
-.post-image-center {
-    width: 100%;
-    display: flex;
-    justify-content: center;
+.post-image-left {
+    float: left;
+    max-width: 300px;
+    padding-right: 20px;
 }
 
-.post-image-center img {
+.post-image-left img {
     width: 300px;
 }
 
