@@ -4,11 +4,12 @@ author: Anders Nord
 category: Intervjuer
 tags: intervju, klimat, ifk, medlemmar
 status: published
+data:
 
 <div class="post-image-center">
 ![Anders Nord]({{post_url}}/data/anders_nord.jpeg)
 </div>
-*Anders Nord i SAMMANHANG vid DATUM.*
+*Anders Nord i arbete med `ifk-smhi` hemma i sin fåtölj 2023-02-11.*
 
 **Anders Nord är medlem i Ingenjörsarbete För Klimatet sedan starten 2020.**
 
@@ -48,7 +49,7 @@ rent ideellt arbete, helt enkelt?"*
 **Vad har du gjort i föreningen?**
 Jag har varit ordförande sedan föreningen startade, därutöver har jag varit med
 och anordnat ett antal AWs och presentationer av intressanta forskare. Jag har
-också försökt engagera mig i några olika programmeringsprojekt och fuskat i lite
+också försökt engagera mig i några olika programmeringsprojekt och tittat lite på
 dataanalys för att t ex få till en översyn av utsläpp från olika källor. Jag försöker
 också ta del i workshops, presentationer och liknande när jag har möjlighet.
 

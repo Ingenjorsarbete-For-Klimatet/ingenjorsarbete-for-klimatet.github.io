@@ -1,12 +1,15 @@
 title: Intervju med medlem: FÖRNAMN EFTERNAMN
 date: 2020-01-01
 author:
-category: Intervjuer
+category: Intervju
 tags: intervju, klimat, ifk, medlemmar
 status: unpublished
+data:
 
+<div class="post-image-center">
 ![Bild av intervjuobjekt]({{post_url}}/data/INTERVJUBILD)
 *FÖRNAMN EFTERNAMN i SAMMANHANG vid DATUM.*
+</div>
 
 **FÖRNAMN EFTERNAMN är medlem i Ingenjörsarbete För Klimatet sedan DATUM.**
 
