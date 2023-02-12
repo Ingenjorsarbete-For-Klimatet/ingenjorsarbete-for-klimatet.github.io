@@ -5,7 +5,9 @@ category: Intervjuer
 tags: intervju, klimat, ifk, medlemmar
 status: published
 
-![Bild av intervjuobjekt]({{post_url}}/data/INTERVJUBILD)
+<div class="post-image-center">
+![Anders Nord]({{post_url}}/data/anders_nord.jpeg)
+</div>
 *Anders Nord i SAMMANHANG vid DATUM.*
 
 **Anders Nord är medlem i Ingenjörsarbete För Klimatet sedan starten 2020.**
