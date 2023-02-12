@@ -7,7 +7,7 @@ status: published
 data:
 
 <div class="post-image-left">
-<img alt="Anders Nord" src="/{{sitename}}/{{post_url}}/data/anders_nord.jpeg" />
+<img alt="Anders Nord" src="/ifk-articles{{post_url}}/data/anders_nord.jpeg" />
 <em>Anders Nord i arbete med `ifk-smhi` hemma i sin fåtölj 2023-02-11.</em>
 </div>
 
