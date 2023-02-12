@@ -147,6 +147,17 @@ p a, p a:visited {
     text-decoration: underline;
 }
 
+.post-image-center {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.post-image-center img {
+    width: 300px;
+}
+
+
 @media only screen and (width <= 600px) {
     #nav, #footer {
         padding: 0 20px;
