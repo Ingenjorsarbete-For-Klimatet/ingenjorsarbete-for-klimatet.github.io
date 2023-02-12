@@ -11,7 +11,6 @@ data:
     <em>Anders Nord i arbete med `ifk-smhi` hemma i sin fåtölj 2023-02-11.</em>
 </div>
 
-
 **Anders Nord är medlem i Ingenjörsarbete För Klimatet sedan starten 2020.**
 
 **Vad har du för yrke?**

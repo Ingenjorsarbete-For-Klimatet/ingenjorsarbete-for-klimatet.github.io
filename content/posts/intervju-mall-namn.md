@@ -6,7 +6,6 @@ tags: intervju, klimat, ifk, medlemmar
 status: unpublished
 data:
 
-
 <div class="post-image-left">
     <img alt="Bild av intervjuobjekt" src="{{post_url}}/data/INTERVJUBILD" />
     <em>FÖRNAMN EFTERNAMN i SAMMANHANG vid DATUM.</em>
