@@ -147,6 +147,17 @@ p a, p a:visited {
     text-decoration: underline;
 }
 
+.post-image-left {
+    float: left;
+    max-width: 300px;
+    padding-right: 20px;
+}
+
+.post-image-left img {
+    width: 300px;
+}
+
+
 @media only screen and (width <= 600px) {
     #nav, #footer {
         padding: 0 20px;
