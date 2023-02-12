@@ -7,7 +7,7 @@ status: unpublished
 data:
 
 <div class="post-image-left">
-    <img alt="Bild av intervjuobjekt" src="{{post_url}}/data/INTERVJUBILD" />
+    <img alt="Bild av intervjuobjekt" src="data/INTERVJUBILD" />
     <em>FÖRNAMN EFTERNAMN i SAMMANHANG vid DATUM.</em>
 </div>
 
