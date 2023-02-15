@@ -13,7 +13,7 @@
 		<meta name=viewport id="viewport" content="width=device-width, initial-scale=1">
 		<!-- Define viewport -->
 		<!-- Favicon -->
-		<link rel="shortcut icon" href="/{{sitename}}/css/favicon.png">
+		<link rel="shortcut icon" href="/css/favicon.png">
 		<!-- End Favicon -->
 		<!-- Font loading -->
 		<style>
@@ -22,7 +22,7 @@
 		</style>
 		<!-- End font loading -->
 		<!-- Load CSS -->
-		<link rel="stylesheet" type="text/css" href="/{{sitename}}/css/style.css" />
+		<link rel="stylesheet" type="text/css" href="/css/style.css" />
 		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/default.min.css" />
 		<link rel="stylesheet" href="https://unpkg.com/highlightjs-copy/dist/highlightjs-copy.min.css" />
 		<!-- End Load CSS -->
@@ -34,7 +34,7 @@
 				{% if menuitems %}
 				{% for title, link in menuitems.items() %}
 				<li id="nav_{{ title }}" title="{{ title }}">
-					<a class="nav_{{ title }} nav_link {% if ( title == "ifk" and page_name == "ifk" ) or ( title == "arkiv" and page_name == "arkiv" ) or ( title == "projekt" and page_name == "projekt") or ( title == "kontakt" and page_name == "kontakt" ) or ( title == "om" and page_name == "om" ) %}activeMenu{% endif %}" title="{{ title }}" {% if ( title==home ) %} href="/{{sitename}}" {% else %} href="/{{sitename}}/{{link}}/" {% endif %}>
+					<a class="nav_{{ title }} nav_link {% if ( title == "ifk" and page_name == "ifk" ) or ( title == "arkiv" and page_name == "arkiv" ) or ( title == "projekt" and page_name == "projekt") or ( title == "kontakt" and page_name == "kontakt" ) or ( title == "om" and page_name == "om" ) %}activeMenu{% endif %}" title="{{ title }}" {% if ( title==home ) %} href="/" {% else %} href="/{{link}}/" {% endif %}>
 						{{title}}
 					</a>
 				</li>
