@@ -1,7 +1,7 @@
 title: Intervju med medlem: FÖRNAMN EFTERNAMN
 date: 2020-01-01
 author:
-category: Intervju
+category: Om
 tags: intervju, klimat, ifk, medlemmar
 status: unpublished
 data:
