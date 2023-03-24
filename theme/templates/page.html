@@ -19,8 +19,8 @@
                         </ol>
                         {% endif %}
 
-                        <h2>Medlemmar</h2>
                         {% if title == "om" %}
+                        <h2>Medlemmar</h2>
                         <ol id="post-list" class="ordered-list" data-list-length="{{ articles|count }}">
                             {% for article in articles %}
                             {% if article.category == "Om" %}
