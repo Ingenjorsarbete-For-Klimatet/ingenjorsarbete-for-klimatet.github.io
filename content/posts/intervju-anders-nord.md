@@ -1,7 +1,7 @@
 title: Intervju med medlem: Anders Nord
 date: 2023-02-12
 author: Anders Nord
-category: Intervjuer
+category: Om
 tags: intervju, klimat, ifk, medlemmar
 status: published
 data:
