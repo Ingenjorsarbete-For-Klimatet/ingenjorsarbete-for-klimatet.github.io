@@ -30,8 +30,8 @@ Jag var med och startade föreningen.
 
 **Vad har du gjort i föreningen?**
 Jag har drivit olika programmeringsprojekt och tittat på dataanalys för att svara
-på olika frågor som kan hjälpa människor i olika beslut. Jag deltar också så mycket
-jag kan i workshops, presentationer och liknande.
+på olika frågor som kan hjälpa människor i olika beslut. Jag deltar också i
+workshops, presentationer och liknande.
 
 (c) Ingenjörsarbete för Klimatet. För återpublicering kontakta ansvarig utgivare
 Anders Nord [dr.anders.nord@gmail.com](mailto:dr.anders.nord@gmail.com).
