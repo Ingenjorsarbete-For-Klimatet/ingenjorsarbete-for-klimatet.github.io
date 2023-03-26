@@ -4,10 +4,10 @@ author: Mladen Gibanica
 category: Om
 tags: intervju, klimat, ifk, medlemmar
 status: published
-data:
 
 <div class="post-image-left">
-    <img alt="Mladen Gibanica" src="https://avatars.githubusercontent.com/u/11275336?v=4" />
+    <img alt="Mladen Gibanica"
+    src="https://avatars.githubusercontent.com/u/11275336?v=4" />
     <em>Mladen Gibanica i regn en midsommar.</em>
 </div>
 
