@@ -3,7 +3,7 @@ date: 2023-03-28
 author: Anders Nord
 category: Om
 tags: intervju, klimat, ifk, medlemmar
-status: unpublished
+status: published
 data:
 
 <div class="post-image-left">
