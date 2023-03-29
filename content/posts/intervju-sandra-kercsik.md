@@ -1,4 +1,4 @@
-title: Intervju med medlem: Anders Nord
+title: Intervju med medlem: Sandra Kercsik
 date: 2023-02-12
 author: Anders Nord
 category: Om
