@@ -24,5 +24,8 @@ jobs:
       - name: Copy data content
         run: |
           sshpass -p "${{ secrets.PASSWORD }}" rsync -r -e "ssh -o StrictHostKeyChecking=no -p${{ secrets.PORT }}" ${{ secrets.USER }}@${{ secrets.HOST }}:ingenjorsarbeteforklimatet.se/content/data/ content/data/
+      - name: list
+        run: |
+          tree content
       - name: Build site
         run: python -m mysgen.mysgen && cp -r theme/css/ output/css/ && mv output _site
