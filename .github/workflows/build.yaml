@@ -31,14 +31,13 @@ jobs:
         uses: actions/configure-pages@v2
       - uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: "3.10"
       - name: Install mysgen
         run: pip install https://github.com/mgcth/mysgen/archive/master.zip
+      - name: Copy data content
+        run: |
+          sshpass -p "${{ secrets.PASSWORD }}" rsync -r -e "ssh -o StrictHostKeyChecking=no -p${{ secrets.PORT }}" ${{ secrets.USER }}@${{ secrets.HOST }}:ingenjorsarbeteforklimatet.se/content/data/ content/data/
       - name: Build site
-        env:
-          S3_KEY: ${{ secrets.S3_KEY }}
-          S3_SECRET: ${{ secrets.S3_SECRET }}
-          S3_URL: ${{ secrets.S3_URL }}
         run: python -m mysgen.mysgen && cp -r theme/css/ output/css/ && mv output _site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
