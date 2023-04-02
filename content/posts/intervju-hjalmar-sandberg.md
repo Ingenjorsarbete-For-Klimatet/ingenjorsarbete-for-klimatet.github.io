@@ -7,8 +7,8 @@ status: unpublished
 data:
 
 <div class="post-image-left">
-    <img alt="Bild av intervjuobjekt" src="data/hjalmar_sandberg.jpeg" />
-    <em>Hjalmar Sandberg i SAMMANHANG vid DATUM.</em>
+    <img alt="Bild av intervjuobjekt" src="data/hjalmar_sandberg.jpg" />
+    <em>Hjalmar Sandberg i solen utanför sitt radus i Mölndal April 2023.</em>
 </div>
 
 **Hjalmar Sandberg är medlem i Ingenjörsarbete För Klimatet sedan 2020.**
