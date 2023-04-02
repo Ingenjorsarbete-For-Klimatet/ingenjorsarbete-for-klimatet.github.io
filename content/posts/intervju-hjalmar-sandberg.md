@@ -3,7 +3,7 @@ date: 2023-03-26
 author:
 category: Om
 tags: intervju, klimat, ifk, medlemmar
-status: unpublished
+status: published
 data:
 
 <div class="post-image-left">
