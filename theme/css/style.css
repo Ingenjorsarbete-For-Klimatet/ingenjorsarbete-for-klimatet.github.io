@@ -157,6 +157,19 @@ p a, p a:visited {
     width: 300px;
 }
 
+/* highlight.js */
+.hljs {
+    background: rgba(245,242,240,0.8) !important;
+    font-family: "Inconsolata", monospace !important;
+}
+
+code[class*="language-"] {
+    font-family: "Inconsolata", monospace !important;
+    white-space: pre-wrap;
+}
+
+/* End highlight.js */
+
 /* Custom, iPhone Retina */
 @media only screen and (min-width : 320px) {
     body {
