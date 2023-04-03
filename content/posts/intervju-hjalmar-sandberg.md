@@ -7,7 +7,7 @@ status: published
 data:
 
 <div class="post-image-left">
-    <img alt="Bild av intervjuobjekt" src="data/hjalmar_sandberg.jpg" />
+    <img alt="Hjalmar Sandberg" src="data/hjalmar_sandberg.jpg" />
     <em>Hjalmar Sandberg i solen utanför sitt radus i Mölndal April 2023.</em>
 </div>
 
