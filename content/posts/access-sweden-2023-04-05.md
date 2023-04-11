@@ -1,4 +1,4 @@
-title: Access Sweden - ett nytt samhällskontrakt för hållbart resande utan bil
+title: Access Sweden
 date: 2023-04-05
 modified:
 author: Anders Nord
@@ -7,18 +7,15 @@ tags: cykel, kollektivtrafik, forskning, trafikplanering, 2030
 data:
 status: unpublished
 
-**Vinnova har godkänt stöd till forskningsprojektet Access Sweden, med Statens
-Väg- & Transportforskningsinstitut (VTI) som huvudman. Projektet har som uppgift
-att utveckla ett nytt slagkraftigt innovationsprogram för att stötta samhället
-med rörlighet utan tillgång till egen bil. IFKs ordförande Anders Nord är med
-som en av många tekniska rådgivare.**
+**Vinnova, Energimyndigheten och Formas har godkänt stöd till ett förberedelseprojekt
+inom Impact innovation med titel Access Sweden. Statens Väg- & Transportforskningsinstitut
+(VTI) är huvudman med VREF och RISE som övriga projektdeltagare. Projektets syfte
+är att utveckla ett nytt slagkraftigt innovationsprogram för att stötta samhället
+med hållbar tillgänglighet utan att behöva äga egen bil. IFKs ordförande Anders
+Nord är med som en av många rådgivare.**
 
-Projektet Access Sweden beskrivs i detalj genom <a href="https://www.radslaget.se/"
-target="_blank">Rådslaget</a>, ett initiativ från nationellt kunskapscentrum för
-kollektivtrafik med tillkommande forskningsfinansiering från Trafikverket och Vinnova.
-Ambitionen är att förnya det kollektiva resandet genom  innovationsagendan "Framtidens
-kollektiva mobilitet - nästa steg för hållbart resande", som alltså utvecklas och
-förfinas i konstant dialog inom expertgruppen.
+Projektet Access Sweden beskrivs i detalj här <a href="https://www.radslaget.se/pressmeddelande"
+target="_blank">pressmeddelande</a>.
 
 Förutom föreningens ordförande, som medverkar på ideell basis, företräds även föreningen
 genom dr. Peter Torstensson genom sin yrkesroll på VTI.
