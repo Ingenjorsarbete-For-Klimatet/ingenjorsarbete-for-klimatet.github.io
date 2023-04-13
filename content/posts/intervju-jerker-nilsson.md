@@ -1,6 +1,6 @@
-title: Intervju med medlem: Anders Nord
+title: Intervju med medlem: Jerker Nilsson
 date: 2023-04-11
-author: Anders Nord
+author: Jerker Nilsson
 category: Om
 tags: intervju, klimat, ifk, medlemmar
 status: published
