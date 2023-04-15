@@ -10,7 +10,7 @@
                         <h2>Kommande event</h2>
                         <ol id="post-list" class="ordered-list" data-list-length="{{ articles|count }}">
                             {% for article in articles %}
-                            {% if article.category == "Event" and article.date > build_date %}
+                            {% if article.category == "Event" and article.date >= build_date %}
                             {% include 'base/archive_kernel.html' %}
                             {% endif %}
                             {% endfor %}
@@ -19,7 +19,7 @@
                         <h2>Tidigare event</h2>
                         <ol id="post-list" class="ordered-list" data-list-length="{{ articles|count }}">
                             {% for article in articles %}
-                            {% if article.category == "Event" and article.date <= build_date %}
+                            {% if article.category == "Event" and article.date < build_date %}
                             {% include 'base/archive_kernel.html' %}
                             {% endif %}
                             {% endfor %}
