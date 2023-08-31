@@ -4,7 +4,6 @@ modified:
 author: Anders Nord
 category: Projekt
 tags: cykel, kollektivtrafik, forskning, trafikplanering, 2030
-data:
 status: published
 
 **Vinnova, Energimyndigheten och Formas har godkänt stöd till ett förberedelseprojekt
