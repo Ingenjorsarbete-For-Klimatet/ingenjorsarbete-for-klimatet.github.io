@@ -100,7 +100,7 @@ på Concoord, optimera designen på luftningssystemet och undersöka processtyrn
 med hjälp av kontrollalgoritmer enligt industriella principer.
 
 "När en försöker göra någonting som är svårt finns det alltid många människor som
-berättar att det är just svårt", avslutar Sasha vårt samtal. "Att då få träffa 
+berättar att det är just svårt", avslutar Sasha vårt samtal. "Att då få träffa
 kunnigt folk som kommer in med ett analytiskt sinne, tittar på datan och därefter
 säger 'detta är görbart', så är det ett väldigt välbehövligt stöd. Speciellt när
 de därtill är beredda att själva hjälpa till med genomförandet. Jag behövde det!"
