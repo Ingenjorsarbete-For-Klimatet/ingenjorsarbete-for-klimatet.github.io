@@ -3,7 +3,7 @@ date: 2023-09-03
 author: Anders Nord
 category: Projekt
 tags: cirkularitet, jordbruk, återvinning, renova, processanalys
-status: unpublished
+status: published
 
 <div class="post-image-center">
     <img alt="Processflöde." src="data/2023_01_07_renova_process_overview.jpg" />
