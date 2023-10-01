@@ -104,3 +104,6 @@ berättar att det är just svårt", avslutar Sasha vårt samtal. "Att då få tr
 kunnigt folk som kommer in med ett analytiskt sinne, tittar på datan och därefter
 säger 'detta är görbart', så är det ett väldigt välbehövligt stöd. Speciellt när
 de därtill är beredda att själva hjälpa till med genomförandet. Jag behövde det!"
+
+(c) Ingenjörsarbete för Klimatet. För återpublicering kontakta ansvarig utgivare
+Anders Nord [dr.anders.nord@gmail.com](dr.anders.nord@gmail.com)
