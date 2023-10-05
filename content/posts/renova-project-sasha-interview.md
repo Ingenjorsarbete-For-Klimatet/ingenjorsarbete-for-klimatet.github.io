@@ -12,7 +12,7 @@ status: published
 </div>
 
 **Hon flyttade från Kanada till Sverige för kärleken och startade ett ekologiskt
-och närproducerat andelsjordbruk på Hisingen. När förhållandet sprack gick hon in
+och närproducerat andelsjordbruk i Olofstorp. När förhållandet sprack gick hon in
 i väggen. Sasha Faminoff hittade tillbaka till samhället genom försäkringskassans
 arbetsträning och initierade i samma veva en demonstrationsanläggning för industriell
 kompostering på Renova i Göteborg.**
@@ -78,7 +78,7 @@ Pilotanläggningen hade till slut två komposthögar, där den ena byggdes på m
 den andra låg och mognade i två veckor. Därefter vändes och återfuktades den, och
 efter fyra veckor hade den stabiliserats och behövde bara mogna ytterligare för
 att skapa god matjord. Detta var väldigt lovande; temperaturerna var nu tillräckligt
-höga för att desinfektera materialet, men de svängde mycket över tid.
+höga för att hygienisera materialet, men de svängde mycket över tid.
 
 "Jag utgick ifrån Robert Rynks 'The composting handbook' och använde standardvärden",
 berättar Sasha. "Det var en fantastisk resurs för mig; jag hade inga möjligheter
@@ -86,7 +86,7 @@ att skaffa konsulttimmar hos experter eller ingenjörer för att få ordning på
 eftersom det var en liten försöksverksamhet utanför Renovas egentliga verksamhet",
 fortsätter hon.
 
-### IFK till undsättning
+### Stöd från Ingenjörsarbete För Klimatet
 
 Efter sex månaders arbete med försöksverksamheten ställdes Sasha inför Renovas interna
 kvalitétsgranskning för projekt, och ombads ta fram en plan för hur verksamheten
