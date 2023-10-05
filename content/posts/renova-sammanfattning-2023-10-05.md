@@ -6,8 +6,9 @@ tags: cirkularitet, jordbruk, återvinning, renova, processanalys
 status: published
 
 <div class="post-image-center">
-    <img alt="Processflöde." src="data/renova_process_overview.jpg" />
-    <em>Flödesschema för Renovas industrialiserade komposteringsprocess.</em>
+    <img alt="Processflöde." src="data/jerker_och_sasha.jpg" />
+    <em>Jerker Nilsson och Sasha Faminoff diskuterar Renovas industrialiserade komposteringsprocess
+    i skärgården.</em>
 </div>
 
 **Under försommaren 2022 inledde Sasha Faminoff en förstudie om effektiviserad
