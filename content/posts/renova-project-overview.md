@@ -6,7 +6,7 @@ tags: cirkularitet, jordbruk, återvinning, renova, processanalys
 status: published
 
 <div class="post-image-center">
-    <img alt="Processflöde." src="data/2023_01_07_renova_process_overview.jpg" />
+    <img alt="Processflöde." src="data/renova_process_overview.jpg" />
     <em>Flödesschema för Renovas industrialiserade komposteringsprocess.</em>
 </div>
 
@@ -46,7 +46,7 @@ Eftersom processen genererar värme utreddes också möjligheten att nyttiggöra
 t ex genom inkoppling i fjärrvärmesystemet. Här har bl a HVAC-ingenjör Rasmus Olsson,
 till vardags på Concoord, varit inkopplad med sin expertis.
 
-Försöksanläggningen är efter den framgångsrika förstudien stängd, ochSasha arbetar
+Försöksanläggningen är efter den framgångsrika förstudien stängd, och Sasha arbetar
 vidare på alternativa vägar till den närproducerade kompost odlingar behöver. Vi
 på Ingenjörsarbete för Klimatet är glada att ha kunnat hjälpa Renova undersöka denna
 möjlighet att öka den lokala cirkulariteten och ser fram emot att få fortsätta
