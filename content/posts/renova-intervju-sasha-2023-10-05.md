@@ -93,7 +93,7 @@ fortsätter hon.
 
 Efter sex månaders arbete med försöksverksamheten ställdes Sasha inför Renovas interna
 kvalitétsgranskning för projekt, och ombads ta fram en plan för hur verksamheten
-kunde bli självbärande. I detta läge träffade Sasha  Ingenjörsarbete För Klimatets
+kunde bli självbärande. I detta läge träffade Sasha Ingenjörsarbete För Klimatets
 (IFKs) Jerker Nilsson, projektledare
 för laboratoriebyggnationer vid Volvo Lastvagnar i Lundby, Göteborg, som erbjöd
 sig att bidra med både logistikplanering och ekonomisk analys för projektet. Med
