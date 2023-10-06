@@ -13,10 +13,10 @@ status: published
 
 **Hon flyttade från Kanada till Sverige för kärleken och startade ett ekologiskt
 och närproducerat andelsjordbruk i Olofstorp. Under senare delen av
-odlingssäsongen 2018 gick hon in
-i väggen. Sasha Faminoff hittade tillbaka till samhället genom arbetsförmedlingens
-arbetsträning och initierade i samma veva en parallell demonstrationsanläggning
-för industriell kompostering på Renova i Göteborg.**
+odlingssäsongen 2018 gick hon in i väggen. Sasha Faminoff hittade tillbaka
+till samhället genom arbetsförmedlingens arbetsträning och initierade i samma
+veva en parallell demonstrationsanläggning för industriell kompostering på
+Renova i Göteborg.**
 
 * Namn: Sasha Faminoff
 * Yrke: Lärare / bonde / komposterare
