@@ -55,4 +55,4 @@ möjlighet att öka den lokala cirkulariteten och ser fram emot att få fortsät
 bidra på de sätt vi kan!
 
 (c) Ingenjörsarbete för Klimatet. För återpublicering kontakta ansvarig utgivare
-Anders Nord [dr.anders.nord@gmail.com](dr.anders.nord@gmail.com)
+Anders Nord [dr.anders.nord@gmail.com](mailto:dr.anders.nord@gmail.com)
