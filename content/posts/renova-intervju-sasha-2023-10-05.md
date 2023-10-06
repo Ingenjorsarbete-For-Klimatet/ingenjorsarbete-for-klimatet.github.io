@@ -12,10 +12,11 @@ status: published
 </div>
 
 **Hon flyttade från Kanada till Sverige för kärleken och startade ett ekologiskt
-och närproducerat andelsjordbruk i Olofstorp. När förhållandet sprack gick hon in
-i väggen. Sasha Faminoff hittade tillbaka till samhället genom försäkringskassans
-arbetsträning och initierade i samma veva en demonstrationsanläggning för industriell
-kompostering på Renova i Göteborg.**
+och närproducerat andelsjordbruk i Olofstorp. Under senare delen av
+odlingssäsongen 2018 gick hon in
+i väggen. Sasha Faminoff hittade tillbaka till samhället genom arbetsförmedlingens
+arbetsträning och initierade i samma veva en parallell demonstrationsanläggning
+för industriell kompostering på Renova i Göteborg.**
 
 * Namn: Sasha Faminoff
 * Yrke: Lärare / bonde / komposterare
@@ -28,33 +29,34 @@ stadsnära odling och blev omskriven i såväl [GP](https://www.gp.se/livsstil/s
 som [Tidningen Syre](https://tidningensyre.se/2016/nummer-93/andelsjordbruk-vaxande-trend-sverige/).
 Hon odlade 30-40 olika sorters grönsaker på ganska liten skala, mindre än
 en hektar effektiv jordbruksareal; totalt hade hon omkring 20 andelar till salu
-per säsong. När förhållandet som fått henne att flytta från Kanada till Sverige
-gick i stöpet blev omständigheterna överväldigande: Hon diagnostiserades
+per säsong. Under senare delen av den av torka drabbade odlingssäsongen 2018
+blev omständigheterna överväldigande: Hon diagnostiserades
 med utbrändhet och hennes jordbruk gick i träda.
 
 ### Arbetsträning hos Renova
 
-Försäkringskassan hjälpte Sasha tillbaka in i samhället efter utbrändheten, bland
+Arbetsförmedlingen och försäkringskassan hjälpte Sasha tillbaka in i samhället
+efter utbrändheten, bland
 annat genom att arrangera en arbetsträningsplats hos Renova i början av 2021.
-"Jag gick via Renova till Medborgarskolan i början", minns Sasha. "Därifrån
-slussades jag långsamt in i arbete, med gott stöd från arbetsförmedlingen och
-försäkringskassan." Sasha är noga med att understryka att det svenska skyddsnätet
+"Jag gick en kurs på Medborgarskolan i början", minns Sasha. "Därifrån
+slussades jag långsamt in i arbete på Renova, med gott stöd från arbetsförmedlingen
+och försäkringskassan." Sasha är noga med att understryka att det svenska skyddsnätet
 har fungerat väldigt bra för henne. Hon fick hjälp att komma in hos Renova just
-på grund av hennes intresse för närproducerad kompostjord - en förutsättning för
-ett närproducerat organiskt jordbruk. Renova Marieholm har nämligen redan en tid
-bedrivit kompostering.
+på grund av hennes intresse för närproducerad kompost - en förutsättning för
+ett närproducerat organiskt jordbruk. Renova Marieholm har nämligen sedan en lång
+tid bedrivit kompostering.
 
 "Till en början gick jag bara runt och plockade ut skräp ur komposthögarna,
 området och stängslen däromkring. Jag tog skottkärran på morgonen och plockade
 så mycket skräp jag kunde. Arbetet var enahanda och nedslående på så sätt att
 det inte såg ut att göra någon skillnad, så efter en tid började det göra mig nedslagen.
-Jag insåg att skräpet kom med komposten, och att en effektiv kompostering kräver
-att det inkommande materialets kvalité granskas och säkerställs genom rensning
+Jag insåg att skräpet kom med trädgårdsavfallet, och att en effektiv kompostering
+kräver att det inkommande materialets kvalité granskas och säkerställs genom rensning
 redan vid källan."
 
 ### En effektivare process
 
-Sasha började tala med sopåkarna som kom in med trädgårdsavfallet
+Sasha började tala med chaufförerna som kom in med trädgårdsavfallet
 för att med deras hjälp ordna avvikelserapporter och därigenom återkoppling till
 de kunder som inte åstadkommit tillräcklig separation av återvinningsmaterialen
 (t ex genom att plast hamnat i bingen för trädgårdsavfall) och kunde på så sätt
@@ -62,22 +64,22 @@ höja kvalitén på det inkommande materialet avsevärt.
 
 Nästa problem som Sasha uppdagade var hur gräs och blommor växte till på komposthögen.
 "Det visar ju å ena sidan att det finns mycket näring i komposten, men det är å
-andra sidan ett tecken på att uppvärmningen är otillräcklig eftersom den borde
-dödat växternas frön. Att uppnå tillräckligt hög temperatur under längre tid är
-nödvändigt för att säkerställa att inga patogener överlever till den färdiga
-produkten", säger Sasha. "Vid det här laget började jag titta på litteratur -
-det finns många exempel på storskalig kompostering framför allt ifrån USA, som
-är industriledande i denna branch.
-Den genomsnittliga genomströmmningstiden för material där är 45 till 90 dagar, vilket
+andra sidan ett tecken på att hygieniseringsprocessens uppvärmning är otillräcklig
+eftersom den borde dödat växternas frön. Att uppnå tillräckligt hög temperatur
+under längre tid är nödvändigt för att säkerställa att inga patogener överlever
+till den färdiga produkten", säger Sasha. "Vid det här laget började jag titta
+på litteratur - det finns många exempel på storskalig kompostering framför allt
+ifrån USA, som är industriledande i denna branch.
+Den potentiella genomströmmningstiden för material där är 90 dagar, vilket
 är väldigt mycket mer effektivt än de femton månader som Renovas process föreskrev."
 
 Med stöd ur litteraturen fick Sasha i det här läget klartecken för att starta upp
-den helt aeroba process med aktiv luftning som är industristandard i USA och som
-också reducerar metanproduktionen och kraftigt ökar materialgenomströmmningen.
+den aeroba process med aktiv luftning som är industristandard i branchen och som
+också kan reducera metanproduktionen och kraftigt öka materialgenomströmmningen.
 Pilotanläggningen hade till slut två komposthögar, där den ena byggdes på medan
 den andra låg och mognade i två veckor. Därefter vändes och återfuktades den, och
 efter fyra veckor hade den stabiliserats och behövde bara mogna ytterligare för
-att skapa god matjord. Detta var väldigt lovande; temperaturerna var nu tillräckligt
+att skapa god kompost. Detta var väldigt lovande; temperaturerna var nu tillräckligt
 höga för att hygienisera materialet, men de svängde mycket över tid.
 
 "Jag utgick ifrån Robert Rynks 'The composting handbook' och använde standardvärden",
