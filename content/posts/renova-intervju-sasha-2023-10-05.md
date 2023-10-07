@@ -12,10 +12,9 @@ status: published
 </div>
 
 **Hon flyttade från Kanada till Sverige för kärleken och startade ett ekologiskt
-och närproducerat andelsjordbruk i Olofstorp. Under senare delen av
-odlingssäsongen 2018 gick hon in
-i väggen. Sasha Faminoff hittade tillbaka till samhället genom arbetsförmedlingens
-arbetsträning och initierade i samma veva en parallell demonstrationsanläggning
+och närproducerat andelsjordbruk i Olofstorp. Under senare delen av odlingssäsongen
+2018 gick hon in i väggen. Sasha Faminoff hittade tillbaka till samhället genom
+arbetsförmedlingens arbetsträning och initierade i samma veva en parallell demonstrationsanläggning
 för industriell kompostering på Renova i Göteborg.**
 
 * Namn: Sasha Faminoff
@@ -36,15 +35,14 @@ med utbrändhet och hennes jordbruk gick i träda.
 ### Arbetsträning hos Renova
 
 Arbetsförmedlingen och försäkringskassan hjälpte Sasha tillbaka in i samhället
-efter utbrändheten, bland
-annat genom att arrangera en arbetsträningsplats hos Renova i början av 2021.
-"Jag gick en kurs på Medborgarskolan i början", minns Sasha. "Därifrån
-slussades jag långsamt in i arbete på Renova, med gott stöd från arbetsförmedlingen
-och försäkringskassan." Sasha är noga med att understryka att det svenska skyddsnätet
-har fungerat väldigt bra för henne. Hon fick hjälp att komma in hos Renova just
-på grund av hennes intresse för närproducerad kompost - en förutsättning för
-ett närproducerat organiskt jordbruk. Renova Marieholm har nämligen sedan en lång
-tid bedrivit kompostering.
+efter utbrändheten, bland annat genom att arrangera en arbetsträningsplats hos
+Renova i början av 2021. "Jag gick en kurs på Medborgarskolan i början", minns
+Sasha. "Därifrån slussades jag långsamt in i arbete på Renova, med gott stöd från
+arbetsförmedlingen och försäkringskassan." Sasha är noga med att understryka att
+det svenska skyddsnätet har fungerat väldigt bra för henne. Hon fick hjälp att
+komma in hos Renova just på grund av hennes intresse för närproducerad kompost -
+en förutsättning för ett närproducerat organiskt jordbruk. Renova Marieholm har
+nämligen sedan en lång tid bedrivit kompostering.
 
 "Till en början gick jag bara runt och plockade ut skräp ur komposthögarna,
 området och stängslen däromkring. Jag tog skottkärran på morgonen och plockade
@@ -69,9 +67,9 @@ eftersom den borde dödat växternas frön. Att uppnå tillräckligt hög temper
 under längre tid är nödvändigt för att säkerställa att inga patogener överlever
 till den färdiga produkten", säger Sasha. "Vid det här laget började jag titta
 på litteratur - det finns många exempel på storskalig kompostering framför allt
-ifrån USA, som är industriledande i denna branch.
-Den potentiella genomströmmningstiden för material där är 90 dagar, vilket
-är väldigt mycket mer effektivt än de femton månader som Renovas process föreskrev."
+ifrån USA, som är industriledande i denna branch. Den potentiella genomströmmningstiden
+för material där är 90 dagar, vilket är väldigt mycket mer effektivt än de femton
+månader som Renovas process föreskrev."
 
 Med stöd ur litteraturen fick Sasha i det här läget klartecken för att starta upp
 den aeroba process med aktiv luftning som är industristandard i branchen och som
@@ -93,14 +91,14 @@ fortsätter hon.
 Efter sex månaders arbete med försöksverksamheten ställdes Sasha inför Renovas interna
 kvalitétsgranskning för projekt, och ombads ta fram en plan för hur verksamheten
 kunde bli självbärande. I detta läge träffade Sasha  Ingenjörsarbete För Klimatets
-(IFKs) Jerker Nilsson, projektledare
-för laboratoriebyggnationer vid Volvo Lastvagnar i Lundby, Göteborg, som erbjöd
-sig att bidra med både logistikplanering och ekonomisk analys för projektet. Med
-Jerkers investeringsavkastningsanalys och tillhörande presentationsmaterial fick
-Sasha projektet förlängt i ytterligare sex månader. Tiden användes bland annat
-till att genom IFKs Rasmus Olsson, som till vardags jobbar med ventilationsinstallationer
-på Concoord, optimera designen på luftningssystemet och undersöka processtyrning
-med hjälp av kontrollalgoritmer enligt industriella principer.
+(IFKs) Jerker Nilsson, projektledare för laboratoriebyggnationer vid Volvo Lastvagnar
+i Lundby, Göteborg, som erbjöd sig att bidra med både logistikplanering och ekonomisk
+analys för projektet. Med Jerkers investeringsavkastningsanalys och tillhörande
+presentationsmaterial fick Sasha projektet förlängt i ytterligare sex månader.
+Tiden användes bland annat till att genom IFKs Rasmus Olsson, som till vardags
+jobbar med ventilationsinstallationer på Concoord, optimera designen på luftningssystemet
+och undersöka processtyrning med hjälp av kontrollalgoritmer enligt industriella
+principer.
 
 "När en försöker göra någonting som är svårt finns det alltid många människor som
 berättar att det är just svårt", avslutar Sasha vårt samtal. "Att då få träffa
