@@ -68,12 +68,12 @@ eftersom den borde dödat växternas frön. Att uppnå tillräckligt hög temper
 under längre tid är nödvändigt för att säkerställa att inga patogener överlever
 till den färdiga produkten", säger Sasha. "Vid det här laget började jag titta
 på litteratur - det finns många exempel på storskalig kompostering framför allt
-ifrån USA, som är industriledande i denna branch. Den potentiella genomströmmningstiden
+ifrån USA, som är väl etablerade i denna branch. Den potentiella genomströmmningstiden
 för material där är 90 dagar, vilket är väldigt mycket mer effektivt än de femton
 månader som Renovas process föreskrev."
 
 Med stöd ur litteraturen fick Sasha i det här läget klartecken för att starta upp
-den aeroba process med aktiv luftning som är industristandard i branchen och som
+den aeroba process med aktiv luftning som är en industristandard i branchen och som
 också kan reducera metanproduktionen och kraftigt öka materialgenomströmmningen.
 Pilotanläggningen hade till slut två komposthögar, där den ena byggdes på medan
 den andra låg och mognade i två veckor. Därefter vändes och återfuktades den, och
