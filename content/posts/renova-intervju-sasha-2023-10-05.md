@@ -8,7 +8,7 @@ status: published
 
 <div class="post-image-center">
     <img alt="Sasha Faminoff vid Renovas experimentella kompostanläggning."
-    src="data/sasha_faminoff.jpg" />
+    src="data/sasha_faminoff.jpg" width=100%/>
     <em>Sasha Faminoff vid Renovas experimentella kompostanläggning.</em>
 </div>
 
