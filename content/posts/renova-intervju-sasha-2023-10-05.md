@@ -6,9 +6,9 @@ tags: cirkularitet, jordbruk, återvinning, renova, processanalys, intervju
 data:
 status: published
 
-<div class="post-image-center">
+<div class="post-image-left">
     <img alt="Sasha Faminoff vid Renovas experimentella kompostanläggning."
-    src="data/sasha_faminoff.jpg" width=100%/>
+    src="data/sasha_faminoff.jpg"/>
     <em>Sasha Faminoff vid Renovas experimentella kompostanläggning.</em>
 </div>
 
