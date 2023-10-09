@@ -6,9 +6,8 @@ tags: cirkularitet, jordbruk, återvinning, renova, processanalys
 data:
 status: published
 
-<div class="post-image-center">
-    <img alt="Jerker och Sasha på båt." src="data/jerker_och_sasha.jpg"
-    width=100%/>
+<div class="post-image-left">
+    <img alt="Jerker och Sasha på båt." src="data/jerker_och_sasha.jpg"/>
     <em>Jerker Nilsson och Sasha Faminoff diskuterar Renovas industrialiserade komposteringsprocess
     i skärgården.</em>
 </div>
