@@ -24,4 +24,4 @@ data:
 **Vad har du gjort i föreningen?**
 
 (c) Ingenjörsarbete för Klimatet. För återpublicering kontakta ansvarig utgivare
-Anders Nord [dr.anders.nord@gmail.com](mailto:dr.anders.nord@gmail.com).
+Anders Nord [anders.nord@ingenjorsarbeteforklimatet.se](mailto:anders.nord@ingenjorsarbeteforklimatet.se).

@@ -24,4 +24,4 @@ Klimatet ser med glädje på alla initiativ för att sänka persontransporternas
 klimatpåverkan och följer utvecklingen med spänning.
 
 (c) Ingenjörsarbete för Klimatet. För återpublicering kontakta ansvarig utgivare
-Anders Nord [dr.anders.nord@gmail.com](dr.anders.nord@gmail.com)
+Anders Nord [anders.nord@ingenjorsarbeteforklimatet.se](mailto:anders.nord@ingenjorsarbeteforklimatet.se).

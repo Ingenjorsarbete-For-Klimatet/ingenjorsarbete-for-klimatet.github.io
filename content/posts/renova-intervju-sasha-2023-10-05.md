@@ -108,4 +108,4 @@ säger 'detta är görbart', så är det ett väldigt välbehövligt stöd. Spec
 de därtill är beredda att själva hjälpa till med genomförandet. Jag behövde det!"
 
 (c) Ingenjörsarbete för Klimatet. För återpublicering kontakta ansvarig utgivare
-Anders Nord [dr.anders.nord@gmail.com](mailto:dr.anders.nord@gmail.com)
+Anders Nord [anders.nord@ingenjorsarbeteforklimatet.se](mailto:anders.nord@ingenjorsarbeteforklimatet.se).
