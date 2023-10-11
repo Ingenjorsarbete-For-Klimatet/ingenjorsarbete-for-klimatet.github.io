@@ -196,6 +196,16 @@ code[class*="language-"] {
     #footer li a, #footer li p {
         padding: 0 10px;
     }
+
+    .post-image-left {
+        float: left;
+        max-width: 100%;
+        padding-right: 20px;
+    }
+
+    .post-image-left img {
+        width: 100%;
+    }
 }
 
 /* Extra Small Devices, Phones */
