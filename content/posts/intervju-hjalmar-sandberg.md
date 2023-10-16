@@ -38,4 +38,4 @@ Jag har varit med på ett par presentationer som anordnats av föreningen och f�
 dela med mig av intressant material jag kommer över till övriga medlemmar.
 
 (c) Ingenjörsarbete för Klimatet. För återpublicering kontakta ansvarig utgivare
-Anders Nord [dr.anders.nord@gmail.com](mailto:dr.anders.nord@gmail.com).
+Anders Nord [anders.nord@ingenjorsarbeteforklimatet.se](mailto:anders.nord@ingenjorsarbeteforklimatet.se).
