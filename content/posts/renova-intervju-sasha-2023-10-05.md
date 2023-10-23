@@ -1,5 +1,5 @@
 title: Sasha Faminoff: Från hållbara jordbruk till processanalys hos Renova
-date: 2023-09-03
+date: 2023-10-05
 author: Anders Nord
 category: Projekt
 tags: cirkularitet, jordbruk, återvinning, renova, processanalys, intervju
