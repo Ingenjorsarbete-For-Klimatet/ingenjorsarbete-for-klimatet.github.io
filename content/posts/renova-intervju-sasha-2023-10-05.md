@@ -24,9 +24,14 @@ för industriell kompostering på Renova i Göteborg.**
 
 Åren 2016 till 2018 var produktiva och framgångsrika år för Sasha. Hennes andelsjordbruk,
 där kunderna förbinder sig att köpa en viss del av skörden allt eftersom grödorna
-mognar, var en förebild för [Göteborgs stads](https://stadsnaraodling.goteborg.se/omraden/stadsbruk-goteborg/)
-stadsnära odling och blev omskriven i såväl [GP](https://www.gp.se/livsstil/sasha-f%C3%B6rverkligade-sin-gr%C3%B6na-ekodr%C3%B6m-1.8454248)
-som [Tidningen Syre](https://tidningensyre.se/2016/nummer-93/andelsjordbruk-vaxande-trend-sverige/).
+mognar, var en förebild för
+<a href="https://stadsnaraodling.goteborg.se/omraden/stadsbruk-goteborg/" target="_blank">
+Göteborgs stads</a> stadsnära odling och blev omskriven i såväl
+<a href="https://www.gp.se/livsstil/sasha-f%C3%B6rverkligade-sin-gr%C3%B6na-ekodr%C3%B6m-1.8454248"
+target="_blank">GP</a>
+som
+<a href="https://tidningensyre.se/2016/nummer-93/andelsjordbruk-vaxande-trend-sverige/"
+target="_blank">Tidningen Syre</a>.
 Hon odlade 30-40 olika sorters grönsaker på ganska liten skala, mindre än
 en hektar effektiv jordbruksareal; totalt hade hon omkring 20 andelar till salu
 per säsong. Under senare delen av den av torka drabbade odlingssäsongen 2018
