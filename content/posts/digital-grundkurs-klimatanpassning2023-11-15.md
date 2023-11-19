@@ -4,7 +4,6 @@ modified:
 author: Anders Nord
 category: Projekt
 tags: klimatanpassning, smhi, väder, data, klimat, ifk
-data:
 status: published
 
 **Den 15-16/11 arrangerade SMHI den digitala kursen Grundkurs i klimatanpassning.
