@@ -1,5 +1,5 @@
 title: Deltagande vid Digital Grundkurs i Klimatanpassning
-date: 2023-11-20
+date: 2023-11-15
 modified:
 author: Anders Nord
 category: Projekt
