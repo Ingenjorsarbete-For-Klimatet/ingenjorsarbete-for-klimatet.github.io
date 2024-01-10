@@ -1,4 +1,4 @@
-<h1 align="center">ingenjorsarbete-for-klimatet.github.io</h1>
+<h1 align="center">ingenjorsarbeteforklimatet.se</h1>
 
 <p align="center">
     <a href="https://github.com/Ingenjorsarbete-For-Klimatet/ingenjorsarbete-for-klimatet.github.io/blob/main/.github/workflows/build.yaml">
