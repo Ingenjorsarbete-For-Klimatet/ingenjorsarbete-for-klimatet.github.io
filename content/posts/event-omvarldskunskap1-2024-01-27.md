@@ -4,7 +4,6 @@ modified:
 author: Anders Nord
 category: Event
 tags: politik, vetenskap, klimat, aw, social hållbarhet, demokrati
-data:
 status: published
 
 Efter IfMs <a href="event-aw-2023-12-06.md">AW</a> med Hans Abrahamsson har flera
