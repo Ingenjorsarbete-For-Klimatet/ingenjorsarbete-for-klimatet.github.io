@@ -18,7 +18,8 @@ och politiska spelplanen och dess föränderliga förutsättningar. Den består 
 gediget kursmaterial i form av text och filmade föreläsningar uppdelat i tre delar.
 
 Studiecirkeln träffas Lördagen den 27/1 för att diskutera del I av kursen.
-<a href="event-omvarldskunskap1-2024-01-27">Event</a>
+
+[Event](event-omvarldskunskap-del1-2024-01-27.md).
 
 (c) Ingenjörsarbete för Klimatet. För återpublicering kontakta ansvarig utgivare
 Anders Nord [anders.nord@ingenjorsarbeteforklimatet.se](mailto:anders.nord@ingenjorsarbeteforklimatet.se).
