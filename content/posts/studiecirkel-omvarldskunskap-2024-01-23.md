@@ -19,7 +19,7 @@ gediget kursmaterial i form av text och filmade föreläsningar uppdelat i tre d
 
 Studiecirkeln träffas Lördagen den 27/1 för att diskutera del I av kursen.
 
-[Event](event-omvarldskunskap-del1-2024-01-27.md).
+[Event](/posts/event-omvarldskunskap-del1-2024-01-27)
 
 (c) Ingenjörsarbete för Klimatet. För återpublicering kontakta ansvarig utgivare
 Anders Nord [anders.nord@ingenjorsarbeteforklimatet.se](mailto:anders.nord@ingenjorsarbeteforklimatet.se).
