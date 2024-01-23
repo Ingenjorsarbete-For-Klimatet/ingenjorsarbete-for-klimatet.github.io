@@ -10,7 +10,7 @@ status: published
 Göteborgs Universitet, sin bild av hur lokala och globala initiativ samverkar i
 det samtida politiska systemet för föreningen Ingenjörer för Miljön. Flera av
 Ingenjörsarbete För Klimatets medlemmar närvarade, vilket inspirerat en studiecirkel
-för att läsa in Hans kurs <a href="https://omvarldskunskap.se">omvärldskunskap.se</a>.**
+för att läsa in Hans kurs <a href="https://www.omvarldskunskap.se" target="_blank">omvärldskunskap.se</a>.**
 
 Kursen togs ursprungligen fram i samband med Sveriges Kommuner och Regioner (SKR),
 och syftar till att introducera lokala politiska ledare till den globala ekonomiska
