@@ -6,7 +6,7 @@ category: Event
 tags: politik, vetenskap, klimat, aw, social hållbarhet, demokrati
 status: published
 
-Efter IfMs [AW](event-aw-2023-12-06.md) med Hans Abrahamsson har flera
+Efter IfMs [AW](/posts/event-aw-2023-12-06) med Hans Abrahamsson har flera
 i föreningen valt att i studiecirkelformat läsa in självstudiematerialet om "konsten
 att värna demokrati och social hållbarhet" som Hans har tagit fram i en större
 forskningsstudie för Sveriges Kommuner och Regioner (SKR). Materialet finns tillgängligt
