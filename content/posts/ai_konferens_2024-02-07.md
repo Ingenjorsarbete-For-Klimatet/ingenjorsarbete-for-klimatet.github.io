@@ -1,4 +1,4 @@
-title: Summering av programkonferensen: Ai i klimatets tjänst onsdagen 7 februari 2024
+title: Summering av eventet AI i klimatets tjänst onsdagen 7 februari 2024
 date: 2024-02-08
 modified:
 author: Christoffer Strömberg
