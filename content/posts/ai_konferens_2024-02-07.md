@@ -2,7 +2,7 @@ title: Summering av eventet AI i klimatets tjänst onsdagen 7 februari 2024
 date: 2024-02-08
 modified:
 author: Christoffer Strömberg
-category: Event
+category: Projekt
 tags: AI, data, klimat, ifk
 status: published
 
@@ -16,9 +16,9 @@ på konferensen och ska här kort summera eftermiddagen.
 Eftermiddagen börjar med tre korta projektpresentationer:
 
 * Projekt för att skapa större trovärdighet i klimatberäkningar, bla. används
-AI för att utvärdera CO2 läckage mellan länder (se
+AI för att utvärdera CO2 läckage mellan länder (läs mer om AICA på
 <a href="https://2050.se/en/aica-ai-powered-carbon-border-adjustments-eng"
-target="_blank">AICA at 2050.se</a>).
+target="_blank">2050.se</a>).
 * Digitala tvillingar för byggnader i syfte att effektivisera renovering
 (se <a href="https://chalmersindustriteknik.se/projekt/decarbonaite/"
 target = "_blank">DecarbonAIte</a>).
@@ -54,10 +54,6 @@ att rädda klimatet.
 
 Vidare gick David igenom hur en bör tänka när en väljer AI projekt, bla bör man
 akta sig för all buzzwords som tex AI.
-
-Slutligen bör jag nämna att jag spelade en hel del skitgubbe med min son som var
-krasslig och hemma från föskolan denna dag, så jag kan har missat några
-fantastiska detaljer.
 
 (c) Ingenjörsarbete för Klimatet. För återpublicering kontakta ansvarig utgivare
 Anders Nord [anders.nord@ingenjorsarbeteforklimatet.se](mailto:anders.nord@ingenjorsarbeteforklimatet.se).
