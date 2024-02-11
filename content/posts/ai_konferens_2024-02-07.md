@@ -10,7 +10,7 @@ Den 7/2 arrangerade bland andra Vinnova en konferens med fokus på AI i
 klimatets tjänst (finns i skrivandets stund inspelad här
 <a href="https://www.youtube.com/watch?v=u938bi1stT8" target="_blank">
 Programkonferens AI i klimatets tjänst, 7 februari 2024 - YouTube</a>).
-Eftermiddagen var öppen för allmän beskådan på youtube. Eftermiddagen summeras 
+Eftermiddagen var öppen för allmän beskådan på youtube. Eftermiddagen summeras
 i sin korthet.
 
 Eftermiddagen börjar med tre korta projektpresentationer:
