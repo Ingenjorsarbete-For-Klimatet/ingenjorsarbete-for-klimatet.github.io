@@ -1,5 +1,5 @@
 title: Summering av eventet AI i klimatets tjänst onsdagen 7 februari 2024
-date: 2024-02-08
+date: 2024-02-07
 modified:
 author: Christoffer Strömberg
 category: Projekt
