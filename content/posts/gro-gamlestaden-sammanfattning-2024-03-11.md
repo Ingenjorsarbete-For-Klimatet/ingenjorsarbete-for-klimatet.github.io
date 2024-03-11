@@ -5,6 +5,12 @@ author: Anders Nord
 category: Projekt
 tags: klimatanpassning, politik, lokalt, mat, lokalproducerat, klimat, ifk
 status: published
+data:
+
+<div class="post-image-left">
+    <img alt="GRO logotyp" src="data/gro:logo_trans.png" />
+    <em>Föreningen GRO. (Logotyp av IFKs Peter Mikaelsson)</em>
+</div>
 
 **I januari 2024 bildades föreningen GRO Gamlestaden, med ambitionen att odla mycket
 billig mat lokalt i Göteborgsområdet Gamlestaden och göra den tillgänglig för vem
