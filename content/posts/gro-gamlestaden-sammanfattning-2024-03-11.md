@@ -12,7 +12,8 @@ data:
     <em>Föreningen GRO. (Logotyp av IFKs Peter Mikaelsson)</em>
 </div>
 
-**I januari 2024 bildades föreningen GRO Gamlestaden, med ambitionen att odla så stora mängder basvaror, t ex potatis, som möjligt lokalt i Göteborgsområdet Gamlestaden och göra den tillgänglig för vem
+**I januari 2024 bildades föreningen GRO Gamlestaden, med ambitionen att odla så stora mängder basvaror, t ex potatis,
+som möjligt lokalt i Göteborgsområdet Gamlestaden och göra den tillgänglig för vem
 som helst att skörda. Ingenjörsarbete För Klimatet har varit behjälpliga med
 hemsida och digital infrastruktur, och ser fram emot vidare samarbeten framöver.**
 
