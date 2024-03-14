@@ -8,7 +8,7 @@ status: published
 data:
 
 <div class="post-image-left">
-    <img alt="GRO logotyp" src="data/gro:logo_trans.png" />
+    <img alt="GRO logotyp" src="data/gro_logo_trans.png" />
     <em>Föreningen GRO. (Logotyp av IFKs Peter Mikaelsson)</em>
 </div>
 
