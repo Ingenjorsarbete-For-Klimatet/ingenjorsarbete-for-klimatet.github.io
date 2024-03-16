@@ -14,7 +14,7 @@ för gratis nedladdning på en speciell hemsida som de tagit fram:
 <a href="https://www.omvarldskunskap.se" target="_blank">www.omvarldskunskap.se</a>.
 
 Vi träffas återigen för att diskutera den andra delen av materialet, på Le Pain
-Francais på Vasagatan 26 i Göteborg över frukost, 10-12.
+Francais på Vasagatan 26 i Göteborg, 17-18.
 Denna del består av 129 sidor och 7 videoklipp, och vi gick igenom den första halvan
 vid förra tillfället, så försök att vara förberedd till träffen genom att ha
 tillgodogjort dig allt material.
