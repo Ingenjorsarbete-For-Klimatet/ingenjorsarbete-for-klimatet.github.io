@@ -1,5 +1,5 @@
 title: Intervju med medlem: Sandra Kercsik
-date: 2023-03-29
+date: 2024-05-07
 author: Anders Nord
 category: Om
 tags: intervju, klimat, ifk, medlemmar
@@ -14,9 +14,10 @@ data:
 **Sandra Kercsik är medlem i Ingenjörsarbete För Klimatet sedan starten 2020.**
 
 **Vad har du för yrke?**
-Jag arbetar som Demand Planner på Azelio AB. Vi har utvecklat en teknik för
-energilagring, som tillhandahåller el och värme under dygnets alla timmar, till
-minimaliskt utsläpp och konkurrenskraftig kostnad.
+Jag arbetar som S&OP Manager på Flexlink. Flexlink är branchledande inom automatiserad
+produktions- och materialflödeslösningar. I nära samarbete med våra globala kunder
+tillhandahåller vi toppmoderna lösningar som levererar produktionseffektivitet
+och möjliggör hållbar tillverkning idag och imorgon.
 
 **Vilken utbildning har du?**
 Jag har studerat Maskinteknik med inriktning Industriell Produktion och Organisation.
