@@ -8,7 +8,7 @@ status: published
 data:
 
 <div class="post-image-left">
-    <img alt="GRO skylt" src="data/gro_skylt.png" />
+    <img alt="GRO skylt" src="data/gro_skylt.jpg" />
     <em>Informationsskylt vid plantering i Gamlestaden. Foto: GRO.</em>
 </div>
 
@@ -27,7 +27,7 @@ från odlingarna i Gamlestaden är väldigt goda!
 <a href="http://www.grogamlestaden.se/" target="_blank">grogamlestaden.se</a>.
 
 <div class="post-image-left">
-    <img alt="GRO skyltdesign" src="data/gro_skyltdesign.png" />
+    <img alt="GRO skyltdesign" src="data/gro_skyltdesign.jpg" />
     <em>Informationskyltens innehåll. Design: Anna Katarina Baudner / IFK. Text:
     GRO.</em>
 </div>
