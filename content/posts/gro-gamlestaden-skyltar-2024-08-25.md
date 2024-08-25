@@ -21,8 +21,8 @@ Peter Mikaelsson, trycktes och levererades före sommaren. Medlemmar i förening
 GRO har sedan under sommaren snickrat ramar och kompletterat skyltarna med utbytbara
 kartor över odlingslotterna.
 
-Ingenjörsarbete För Klimatet är glada att kunna hjälpa till och kan intyga att potatisen
-från odlingarna i Gamlestaden är väldigt goda!
+Ingenjörsarbete För Klimatet är glada att kunna hjälpa till. Potatisarna
+från odlingarna i Gamlestaden är därtill väldigt goda - prova själv!
 
 <a href="http://www.grogamlestaden.se/" target="_blank">grogamlestaden.se</a>.
 
