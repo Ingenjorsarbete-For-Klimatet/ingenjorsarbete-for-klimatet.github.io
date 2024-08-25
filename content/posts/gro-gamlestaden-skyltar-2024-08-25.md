@@ -1,4 +1,4 @@
-title: GRO Gamlestaden
+title: Informationsskyltar till GRO Gamlestaden
 date: 2024-08-25
 modified:
 author: Anders Nord
@@ -26,11 +26,10 @@ från odlingarna i Gamlestaden är därtill väldigt goda - prova själv!
 
 <a href="http://www.grogamlestaden.se/" target="_blank">grogamlestaden.se</a>.
 
-<div class="post-image-left">
-    <img alt="GRO skyltdesign" src="data/gro_skyltdesign.jpg" />
-    <em>Informationskyltens innehåll. Design: Anna Katarina Baudner / IFK. Text:
-    GRO.</em>
-</div>
-
+<br>
+<img alt="GRO skyltdesign" src="data/gro_skyltdesign.jpg" width=100%>
+<p>Informationskyltens innehåll. Design: Anna Katarina Baudner / IFK. Text: GRO.</p>
+<br>
+<br>
 (c) Ingenjörsarbete för Klimatet. För återpublicering kontakta ansvarig utgivare
 Anders Nord [anders.nord@ingenjorsarbeteforklimatet.se](mailto:anders.nord@ingenjorsarbeteforklimatet.se).
