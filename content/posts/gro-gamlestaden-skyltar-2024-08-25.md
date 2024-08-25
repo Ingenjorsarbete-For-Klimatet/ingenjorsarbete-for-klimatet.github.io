@@ -26,11 +26,11 @@ från odlingarna i Gamlestaden är därtill väldigt goda - prova själv!
 
 <a href="http://www.grogamlestaden.se/" target="_blank">grogamlestaden.se</a>.
 
-<div class="post-image-left">
+<p class="post-image-center">
     <img alt="GRO skyltdesign" src="data/gro_skyltdesign.jpg" />
     <em>Informationskyltens innehåll. Design: Anna Katarina Baudner / IFK. Text:
     GRO.</em>
-</div>
+</p>
 
 (c) Ingenjörsarbete för Klimatet. För återpublicering kontakta ansvarig utgivare
 Anders Nord [anders.nord@ingenjorsarbeteforklimatet.se](mailto:anders.nord@ingenjorsarbeteforklimatet.se).
