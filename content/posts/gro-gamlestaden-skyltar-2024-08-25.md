@@ -1,4 +1,4 @@
-title: GRO Gamlestaden
+title: Informationsskyltar till GRO Gamlestaden
 date: 2024-08-25
 modified:
 author: Anders Nord
