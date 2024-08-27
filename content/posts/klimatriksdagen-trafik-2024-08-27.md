@@ -8,7 +8,7 @@ status: published
 data:
 
 <div class="post-image-left">
-    <img alt="GRO skylt" src="data/Logga_riksdagen.png" />
+    <img alt="Föreningen Klimatriksdagens logotyp" src="data/Logga_riksdagen.png" />
     <em>Föreningen Klimatriksdagen.</em>
 </div>
 
