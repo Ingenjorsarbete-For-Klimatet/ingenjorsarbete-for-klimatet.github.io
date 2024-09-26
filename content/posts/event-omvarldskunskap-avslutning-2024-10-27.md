@@ -1,5 +1,5 @@
 title: Omvärldskunskap: Online-avslutning med Hans Abrahamsson
-date: 2024-05-27
+date: 2024-10-27
 modified:
 author: Anders Nord
 category: Event
