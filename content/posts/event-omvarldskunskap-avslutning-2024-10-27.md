@@ -21,7 +21,7 @@ Hans kommer att tala på temat **Om världsutvecklingen sedan omvärldskunskap.s
 
 ## Om världsutvecklingen sedan omvärldskunskap.se sjösattes
 
-Söndag, den 27 oktober · 12:00–13:00
+Söndag, den 27 oktober 12:00–13:00
 <a href="https://meet.google.com/evg-pahb-wiy" target="_blank">Videosamtalslänk</a>
 
 Materialet från kursen finns tillgängligt för gratis nedladdning på:
