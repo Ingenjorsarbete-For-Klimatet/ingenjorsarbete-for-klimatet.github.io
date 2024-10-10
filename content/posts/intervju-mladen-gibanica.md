@@ -14,9 +14,9 @@ status: published
 **Mladen Gibanica är medlem i Ingenjörsarbete För Klimatet sedan starten 2020.**
 
 **Vad har du för yrke?**
-Jag arbetar som Senior Data Scientist inom Analytics and AI på Volvo Cars.
+Jag arbetar som Senior Data Scientist-på konsultbolaget Eghed.
 Mitt jobb handlar om att utveckla nya funktioner med maskininlärning, förstå hur
-våra bilar används genom data och hjälpa andra på företaget med liknande frågor.
+produkter används genom data och hjälpa andra företag med liknande frågor.
 
 **Vilken utbildning har du?**
 Jag är doktor i strukturdynamik och civilingenjör med inriktning teknisk mekanik.
