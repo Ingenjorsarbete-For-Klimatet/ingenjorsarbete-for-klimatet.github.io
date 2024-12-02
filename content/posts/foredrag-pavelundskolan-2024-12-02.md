@@ -8,7 +8,7 @@ status: published
 data:
 
 <div class="post-image-left">
-    <img alt="Påvelundskolan" src="data/pavelund.jpg" />
+    <img alt="Påvelundskolan" src="data/pavelund.jpeg" />
     <em>Påvelundsskolans entré en vintermorgon 2024. Foto: Jesper Sanderud.</em>
 </div>
 
