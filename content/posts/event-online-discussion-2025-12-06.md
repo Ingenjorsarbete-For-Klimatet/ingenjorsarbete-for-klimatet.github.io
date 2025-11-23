@@ -38,6 +38,7 @@ räcker till för att driva ner utsläppen så mycket som behövs.*
 **Länk:** <https://meet.google.com/kgi-ijgh-yyi>
 
 **Agenda:**
+
 * Check-in **5min**
 * Nulägesanalys av Anders Nord **30min**
 * Diskussion om vägar framåt **20min**
