@@ -51,7 +51,6 @@ hållbart samhälle?
 * Hur ser ni på ert framtida yrkesliv, och vill ni arbeta med något kopplat till
 miljö och klimat?
 
-
 Presentationsmaterialet från föredraget finns att läsa
 <a href="data/IFK_NTI_Johanneberg_2026.pdf" target="_blank">här</a>.
 
