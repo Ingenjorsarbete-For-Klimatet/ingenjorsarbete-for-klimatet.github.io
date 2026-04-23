@@ -157,6 +157,10 @@ p a, p a:visited {
     width: 300px;
 }
 
+.post-image-center img {
+    width: 100%;
+}
+
 /* highlight.js */
 .hljs {
     background: rgba(245,242,240,0.8) !important;
