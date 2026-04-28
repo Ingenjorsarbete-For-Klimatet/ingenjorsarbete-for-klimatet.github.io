@@ -1,5 +1,5 @@
 title: Python-klient för lantmäteriet-data
-date: 2024-02-09
+date: 2026-04-28
 modified:
 author: Anders Nord
 category: Projekt
@@ -21,12 +21,9 @@ Lantmäteriet har ett väl fungerande API, vilket genom det nyutvecklade öppna 
 blir enkelt tillgängligt i Python. Precis som tidigare hoppas föreningen på detta
 sätt kunna bidra till ett mer effektivt klimatomställningsarbete.
 
-"I dagsläget finns Lantmäteriets data ner till 50m-nivå",
-förklarar dr. Mladen Gibanica, som tidigare arbetat som dataanalytiker på Volvo
-Cars men nu sadlat om och arbetar som datakonsult inom hållbar omställning. "Det
-finns dock ett EU-direktiv som gör att även den mest högupplösta datan kommer att
-tillgängliggöras för allmänheten senast nästa år". (Läs mer på <a href="https://www.lantmateriet.se/sv/om-lantmateriet/press/nyheter/lantmateriets-arbete-mot-oppna-data-i-full-gang/"
-target="_blank">Lantmäteriets hemsida</a>).
+"Lantmäteriets data finns numera tillgänglig ner till 1m-nivå, tack vare EUs direktiv
+om öppenhet av data", förklarar dr. Mladen Gibanica, som tidigare arbetat som dataanalytiker
+på Volvo Cars men nu sadlat om och arbetar som datakonsult inom hållbar omställning. 
 
 För den som är intresserad av hur denna data gestaltar sig finns ett javascript-byggt
 exempel <a href="https://dev.sverige.ingenjorsarbeteforklimatet.se/" target="_blank">här</a>.
