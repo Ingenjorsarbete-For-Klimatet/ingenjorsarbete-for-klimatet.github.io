@@ -21,9 +21,11 @@ Lantmäteriet har ett väl fungerande API, vilket genom det nyutvecklade öppna 
 blir enkelt tillgängligt i Python. Precis som tidigare hoppas föreningen på detta
 sätt kunna bidra till ett mer effektivt klimatomställningsarbete.
 
-"Lantmäteriets data finns numera tillgänglig ner till 1m-nivå, tack vare EUs direktiv
+"Lantmäteriets data finns numera tillgänglig ner till
+<a href="https://www.lantmateriet.se/sv/geodata/vara-produkter/produktlista/topografi-1m-nedladdning-vektor/"
+target="_blank">1m-nivå</a>, tack vare EUs direktiv
 om öppenhet av data", förklarar dr. Mladen Gibanica, som tidigare arbetat som dataanalytiker
-på Volvo Cars men nu sadlat om och arbetar som datakonsult inom hållbar omställning. 
+på Volvo Cars men nu sadlat om och arbetar som datakonsult inom hållbar omställning.
 
 För den som är intresserad av hur denna data gestaltar sig finns ett javascript-byggt
 exempel <a href="https://dev.sverige.ingenjorsarbeteforklimatet.se/" target="_blank">här</a>.
