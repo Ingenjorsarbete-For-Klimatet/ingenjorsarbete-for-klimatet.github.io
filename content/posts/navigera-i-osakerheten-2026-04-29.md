@@ -39,7 +39,7 @@ föreningsliv och akademi integreras projektet dessutom i Göteborgs Hamn AB:s p
 klimatanpassningsarbete.
 
 <div class="post-image-left">
-    <img alt="Exempel på DAPP-model" src="data/dapp:example.png" />
+    <img alt="Exempel på DAPP-model" src="data/dapp_example.png" />
     <em>Exempel på hur planeringsramverket DAPP kan se ut.</em>
 </div>
 
