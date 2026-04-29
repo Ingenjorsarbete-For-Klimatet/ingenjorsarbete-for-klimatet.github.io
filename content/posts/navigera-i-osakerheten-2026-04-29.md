@@ -46,7 +46,7 @@ klimatanpassningsarbete.
 Ingenjörsarbete För Klimatet bistår med forskarkompetens inom datadriven analys och
 stöttar den mjukvaruutveckling som sker i projektet. Specifikt innebär det att
 planeringsramverket Dynamic Adaptive Policy Pathways (DAPP) kommer implementeras
-som ett öppet tillgängligt mjukvaruverktyg. 
+som ett öppet tillgängligt mjukvaruverktyg.
 
 (c) Ingenjörsarbete för Klimatet. För återpublicering kontakta ansvarig utgivare
 Anders Nord [anders.nord@ingenjorsarbeteforklimatet.se](mailto:anders.nord@ingenjorsarbeteforklimatet.se).
