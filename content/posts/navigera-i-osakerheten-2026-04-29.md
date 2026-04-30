@@ -38,7 +38,7 @@ Projektet är dessutom ett sektorsövergripande samarbete mellan offentlig sekto
 föreningsliv och akademi integreras projektet dessutom i Göteborgs Hamn AB:s pågående
 klimatanpassningsarbete.
 
-<div class="post-image-left">
+<div class="post-image-center">
     <img alt="Exempel på DAPP-model" src="data/dapp_example.png" />
     <em>Exempel på hur planeringsramverket DAPP kan se ut.</em>
 </div>
