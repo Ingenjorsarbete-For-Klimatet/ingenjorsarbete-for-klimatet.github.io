@@ -49,6 +49,5 @@ Detta projekt är ett sektorsövergripande samarbete mellan offentlig sektor,
 föreningsliv och akademi. Dessutom integreras projektet i Göteborgs Hamn AB:s pågående
 klimatanpassningsarbete.
 
-
 (c) Ingenjörsarbete för Klimatet. För återpublicering kontakta ansvarig utgivare
 Anders Nord [anders.nord@ingenjorsarbeteforklimatet.se](mailto:anders.nord@ingenjorsarbeteforklimatet.se).
