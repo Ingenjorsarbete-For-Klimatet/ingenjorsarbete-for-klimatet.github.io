@@ -40,10 +40,12 @@ och är väldigt nöjd med resultatet:
 att passa ihop, men att få tag på datan utgjorde inga problem, säger Christoffer
 med ett brett leende.
 
-Programkoden ligger på föreningens GitHub och är under utvecklingen tillgänglig
-endast för föreningens medlemmar, men precis som all annan kod kommer den att
-publiceras gratis och öppen för alla att använda och modifiera så snart den är
-klar för första release. Om du är intresserad av att hjälpa till och utveckla koden
+Programkoden ligger tillgänglig på föreningens GitHub precis som all annan kod
+som skrivit i föreningen är den gratis och öppen för alla att använda och modifiera
+men på grund av den begränsade statusen har ännu ingen första release gjorts vilket
+innebär att paketet måste installeras direkt från GitHub.
+
+Om du är intresserad av att hjälpa till och utveckla koden
 är du mer än välkommen att [gå med i föreningen](mailto:info@ingenjorsarbeteforklimatet.se).
 
 <a href="https://github.com/Ingenjorsarbete-For-Klimatet/ifk-lantmateriet" target="_blank">
