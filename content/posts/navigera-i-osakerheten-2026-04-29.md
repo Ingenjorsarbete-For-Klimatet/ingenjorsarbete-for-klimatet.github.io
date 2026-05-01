@@ -14,11 +14,12 @@ Ett digitalt stöd för samhällets klimatanpassning* vunnit gillande och kommer
 igång under våren. Ingenjörsarbete För Klimatet är projektpartner tillsammans med
 Göteborgs stad, Göteborgs hamn och VTI, Statens väg- och transportforskningsinstitut.**
 
-Dagens klimatpolitik placerar världen i IPCC:s medelhöga till höga utsläppsscenarier
-på en bana bortom Parisavtalets tvågradersmål. Klimatsystemens tröghet innebär att
-betydande temperaturökning redan är inlåst oavsett eventuella snabba framtida
-utsläppsminskningar. Konsekvenserna i form av fler extrema väderhändelser, stigande
-havsnivåer och förändrade klimatmönster, väntas dessutom intensifieras.
+Projektet utgår ifrån nulägesanalysen att dagens klimatpolitik placerar världen
+i IPCC:s medelhöga till höga utsläppsscenarier på en bana bortom Parisavtalets
+tvågradersmål. Klimatsystemens tröghet innebär att betydande temperaturökning
+redan är inlåst oavsett eventuella snabba framtida utsläppsminskningar. Konsekvenserna
+i form av fler extrema väderhändelser, stigande havsnivåer och förändrade klimatmönster,
+väntas dessutom intensifieras.
 
 I ett försämrat säkerhetspolitiskt läge gör Sverige idag en historiskt stor satsning
 på militär upprustning. Klimatanpassning kräver ett liknande proaktivt och strategiskt
@@ -27,16 +28,12 @@ och alltmer påtaglig.
 
 Beslutssituationer med djup osäkerhet kännetecknas av olika tänkbara framtida
 utvecklingsförlopp, samtidigt som tillgänglig information är begränsad och/eller
-det råder oenighet gällande dess konsekvenser och effekter1. Ett systematiskt och
-strukturerat arbetssätt kopplat till djup osäkerhet ligger inbäddat i resiliensbegreppet.
+det råder oenighet gällande dess konsekvenser och effekter. För att uppnå resiliens
+krävs ett systematiskt och strukturerat arbetssätt kopplat till djup osäkerhet.
 Det är fundamentalt för att bygga motståndskraft och anpassningsförmåga hos ett
 system, oavsett om förändringen sker mot bakgrund av t.ex. geo- eller säkerhetspolitiska
 förskjutningar eller klimatförändringars följdeffekter i form av exempelvis påfrestningar
 på infrastruktur och hotande resursbrist.
-
-Projektet är dessutom ett sektorsövergripande samarbete mellan offentlig sektor,
-föreningsliv och akademi integreras projektet dessutom i Göteborgs Hamn AB:s pågående
-klimatanpassningsarbete.
 
 <div class="post-image-center">
     <img alt="Exempel på DAPP-model" src="data/dapp_example.png" />
@@ -47,6 +44,11 @@ Ingenjörsarbete För Klimatet bistår med forskarkompetens inom datadriven anal
 stöttar den mjukvaruutveckling som sker i projektet. Specifikt innebär det att
 planeringsramverket Dynamic Adaptive Policy Pathways (DAPP) kommer implementeras
 som ett öppet tillgängligt mjukvaruverktyg.
+
+Detta projekt är ett sektorsövergripande samarbete mellan offentlig sektor,
+föreningsliv och akademi. Dessutom integreras projektet i Göteborgs Hamn AB:s pågående
+klimatanpassningsarbete.
+
 
 (c) Ingenjörsarbete för Klimatet. För återpublicering kontakta ansvarig utgivare
 Anders Nord [anders.nord@ingenjorsarbeteforklimatet.se](mailto:anders.nord@ingenjorsarbeteforklimatet.se).
