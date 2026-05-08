@@ -17,7 +17,7 @@ kartdata med höjd- och marktypsinformation, och den datan hanteras i Sverige av
 Lantmäteriet. IFK har genom Mladen Gibanicas arbete nu access till den mest högupplösta
 kartdatan och har påbörjat utvecklingen av ett paket för att läsa in datan i python.**
 
-- Jag har byggt en kod som fungerar för oss internt, säger Mladen, som till vardags
+– Jag har byggt en kod som fungerar för oss internt, säger Mladen, som till vardags
 arbetar som dataanalytiker på en konsultfirma i Göteborg, men innan vi släpper
 detta till allmänheten behöver vi se till att kunna traversera APIt och tillgängliggöra
 all den data som lantmäteriet har, inte bara höjddatan. Vi behöver också ordna
@@ -36,13 +36,13 @@ För översvämningsanalysarbetet är koden i alla händelser funktionell; Chris
 Strömberg har implementerat öppet tillgängliga modeller på den data som genereras
 och är väldigt nöjd med resultatet:
 
-- Jag fick läsa på en del om kartprojektioner för att få de olika kartverktygen
+– Jag fick läsa på en del om kartprojektioner för att få de olika kartverktygen
 att passa ihop, men att få tag på datan utgjorde inga problem, säger Christoffer
 med ett brett leende.
 
-Programkoden ligger tillgänglig på föreningens GitHub precis som all annan kod
-som skrivit i föreningen är den gratis och öppen för alla att använda och modifiera
-men på grund av den begränsade statusen har ännu ingen första release gjorts vilket
+Programkoden ligger tillgänglig på föreningens GitHub och precis som all annan
+kod som skrivs i föreningen är den gratis och öppen för alla att använda och modifiera,
+men på grund av den begränsade statusen har ännu ingen första release gjorts, vilket
 innebär att paketet måste installeras direkt från GitHub.
 
 Om du är intresserad av att hjälpa till och utveckla koden
