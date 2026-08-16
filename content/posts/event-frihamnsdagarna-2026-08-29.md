@@ -1,23 +1,25 @@
-title: Den stora klimatdemonstrationen
-date: 2026-08-23
+title: Frihamnsdagarna
+date: 2026-08-29
 modified:
 author: Anders Nord
 category: Event
-tags: politik, vetenskap, klimat, aw, social hållbarhet, demokrati
+tags: politik, vetenskap, klimat, social hållbarhet, demokrati
 status: published
 data:
 
 <div class="post-image-center">
-    <img alt="klimatmarsch."
-    src="data/ifk_klimatdemonstration23_8.png" />
-    <em>Klimatdemonstration 2026-08-23 kl 12:00.</em>
+    <img alt="Frihamnsdagarna."
+    src="data/frihamnsdagarna_26.png" />
+    <em>Anders Nord talar på frihamnsdagarna 2026-08-29 kl 12:30.</em>
 </div>
 
-Ingenjörsarbete För Klimatet är medarrangör för den stora klimatdemonstrationen
-som utgår från vasaparken i Stockholm den 23/8 kl 12:00 för att visa att vi är
-en bred majoritet som är beredda att ställa om, och för att ge politikerna modet
-att ta de beslut som krävs under den kommande mandatperioden. Kom och visa ditt
-engagemang!
+I ett evenemang organiserat av Ingenjörer för Miljön pratar Anders Nord, ordförande
+i Ingenjörsarbete För Klimatet, med utgångspunkt i Global Environmental Outlook
+7 – A future we choose om hur forskarna i UN Environmental Programme menar
+att omställningen ska gå till.
 
-<a href="https://www.naturskyddsforeningen.se/kampanj/den-stora-klimatdemonstrationen/"
-target="_blank">Läs mer här</a>
+Mer information finns på <a href="https://frihamnsdagarna.se/program/klimathoppsmote-ingenjorer-for-miljon/"
+target="_blank">Frihamnsdagarnas hemsida</a>.
+
+Tid: Lördag 29 augusti 2026 kl 12.30–12.50
+Plats: Frihamnen, Göteborg
